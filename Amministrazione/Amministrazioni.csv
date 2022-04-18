@@ -1,0 +1,1557 @@
+﻿Id;Descrizione;IdAmm;IdTipoAmm;IdGruppo;IdDominio;IdSpCercaGruppo;IdSpCercaDominio;IdSpGetIstanzeUtente;applicationsID;ParamCercaGruppo;ParamCercaDominio;ParamFiltroAttributo;esposizione;ordine;IsSpGetIstanzeSimple;ConsoleRiferimento;RichiedeProtocollo;dataCreazione
+309;Gestisci i patronati zonali;32;2;33;1;3;591;4;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+313;Associazioni Casalinghe;62;2;37;2;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+345;Tributaristi, revisori e altri professionisti per imprese senza dipendenti;62;2;38;1;7;567;8;-1;NULL;NULL;numeroIscrizioneAlbo=attributo_nonvisibile|albo=attributo_nonvisibile|dataComunicazione=attributo_nonvisibile;0;NULL;NULL;NULL;NULL;NULL
+346;Patronati Nazionali;62;2;32;1;7;544;8;-1;NULL;NULL;codPatronato=admin;0;NULL;NULL;NULL;NULL;NULL
+348;Medici ospedalieri;42;2;40;1;3;544;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+352;Gestisci gli operatori per i servizi internet;385;2;62;1;3;544;4;3;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+355;Medici Esterni;62;2;41;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+356;Gestisci gli amministratori di patronati;1630;2;83;1;7;544;8;3;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+357;Gestisci i Patronati nazionali;83;2;32;1;7;544;8;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+359;Gestisci gli operatori di direzione PC;1630;2;65;1;7;544;8;3;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+363;Delegati;35;2;36;1;3;544;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+368;Delegati;38;2;39;1;15;567;8;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+369;"Gestisci le Associazioni Casalinghe ";85;2;37;1;7;544;8;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+370;Gestisci gli Admin Casalinghe;1630;2;85;1;7;544;8;3;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+375;Gestisci gli operatori per i servizi internet;88;2;62;1;3;544;4;3;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+382;Cittadini;62;2;82;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+383;Aziende non iscritte all'INAIL;62;2;50;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+384;Gestisci il gruppo Associazioni di Categoria;94;2;35;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+387;Gestisci il gruppo SupervisoreDDRR;95;2;97;1;7;544;8;8;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+388;Gestisci il gruppo SupervNazionale CSA DCPREV DCSIT;95;2;98;1;7;544;8;8;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+389;"Gestisci il gruppo Supervisore Sede ";95;2;99;1;7;544;8;8;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+390;Regioni;62;2;96;1;7;544;8;3;NULL;NULL;codiceRegione=Admin;0;NULL;NULL;NULL;NULL;NULL
+391;Usl;62;2;100;1;7;544;8;3;NULL;NULL;codiceUsl=Admin;0;NULL;NULL;NULL;NULL;NULL
+392;Gestisci il gruppo Subdelegato Associazione Categoria;94;2;36;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+393;Gestisci il gruppo Consulente Associazione Categoria;94;2;47;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+395;EntiPubblici;62;2;34;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+397;Gestisci il gruppo Patronati Test;83;2;102;1;7;544;8;3;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+399;Pubblica amministrazione non iscritta all’INAIL;62;2;104;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+404;Legali rappresentanti delle associazioni;62;2;105;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+405;Legali rappresentanti delle società capofila;62;2;106;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+406;Agronomi e dottori forestali;62;2;110;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+407;Agrotecnici e agrotecnici laureati;62;2;111;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+408;Periti agrari e periti agrari laureati;62;2;112;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+411;"Gestisci il gruppo Direttori ";117;2;118;1;7;544;8;9;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+412;Gestisci il gli Ispettori;118;2;119;1;3;591;4;9;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+415;Gestisci il gruppo SupervisoreDDRR;114;2;97;1;3;544;4;8;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+416;"Gestisci il gruppo Supervisore Sede ";385;2;99;1;3;544;4;6041;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+417;Gestisci il gruppo Regioni;121;2;96;1;3;591;4;8;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+418;Gestisci il gruppo Supervisore di Sede;88;2;99;1;3;544;4;23;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+419;Gestisci il gruppo Supervisore DDRR;115;2;97;1;3;544;4;8;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+420;Gestisci il gruppo Usl;121;2;100;1;27;591;8;8;NULL;NULL;codiceUsl=codiceRegione;0;NULL;NULL;NULL;NULL;NULL
+421;Gestisci il gruppo Responsabili Processo Prevenzione DR;95;2;121;1;7;544;8;8;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+422;Gestisci il gruppo Responsabile Processo Prevenzione DR;114;2;121;1;3;544;4;8;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+427;Gestisci il gruppo AdminMinLavoro;1630;2;117;1;7;544;8;9;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+445;Gestisci il gruppo Usl;95;2;100;1;7;591;8;8;NULL;NULL;codiceUsl=Admin;0;NULL;NULL;NULL;NULL;NULL
+446;Gestisci il gruppo Regioni;95;2;96;1;7;591;8;8;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+447;Gestisci il gruppo Admin Ente;141;2;142;1;7;567;8;13;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+448;Gestisci il gruppo Admin Impresa;141;2;143;1;7;567;8;13;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+454;Operatore Ufficio Ente;142;2;157;1;3;567;4;13;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+458;Operatore Ufficio Impresa;143;2;158;1;3;567;4;13;CodiceANIA;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+459;Operatore Generico Impresa;143;2;153;1;3;567;4;13;CodiceANIA;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+475;Gestisci il gruppo Operatore Inail Casellario;385;2;155;1;3;544;4;13;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+476;Gestisci il gruppo AmministratoriTracciatura;1630;2;161;1;7;544;8;14;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+497;Gestisci il gruppo OperatoriTracciatura;69;2;183;1;3;544;4;14;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+500;Gestisci il gruppo OperatoreInailCasellario;88;2;155;1;3;544;4;13;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+506;"Gestisci il gruppo Amministratore di sede ";191;2;192;1;7;544;8;19;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+507;Gestisci il gruppo Operatori;191;2;193;1;7;544;8;19;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+508;Gestisci il gruppo Segreteria;191;2;194;1;7;544;8;19;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+509;Responsabile ufficio servizi associazione - non società;195;2;199;1;3;544;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+510;Responsabile ufficio servizi associazione - società;196;2;200;1;3;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+511;Responsabile ufficio locale CAF;197;2;198;1;3;544;8;-1;NULL;NULL;NULL;0;0;NULL;NULL;NULL;NULL
+513;Delegati;198;2;203;1;3;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+514;Delegati;200;2;202;1;3;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+515;Delegati;199;2;201;1;3;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+516;Servizi associazioni - non società;62;2;195;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+517;Servizi associazioni - società;62;2;196;1;7;567;8;-1;NULL;NULL;CFServizio=Admin;0;NULL;NULL;NULL;NULL;NULL
+518;CAF imprese;62;2;197;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+520;Gestisci il gruppo GestoreArea;385;2;216;1;3;544;8;20;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+526;Gestisci il gruppo AssistenteSocialeSede;225;2;218;1;7;544;8;22;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+527;Gestisci il gruppo National Controller Monitor Emoticons;226;2;227;1;7;544;8;6104;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+528;Gestisci il gruppo Supervisore Sede;226;2;99;1;7;544;8;6104;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+529;Gestisci gli utenti DPL;228;2;229;1;7;591;8;24;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+531;Gestisci gli utenti DPL;118;2;229;1;7;591;8;24;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+538;Gestisci il gruppo FunzionarioAAS;385;2;215;1;3;544;4;32;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+539;Gestisci il gruppo FunzionarioAAS;88;2;215;1;3;544;4;32;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+542;Gestisci il gruppo Assistente Sociale di Sede;385;2;218;1;3;544;4;22;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+543;Gestisci il gruppo Gestore Area;88;2;216;1;3;544;8;20;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+544;Gestisci il gruppo COI CIV;256;2;257;1;7;544;8;26;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+545;Gestisci il gruppo COI DCSO;256;2;258;1;7;544;8;26;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+546;Gestisci il gruppo COI Presidenza CIV;256;2;259;1;7;544;8;26;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+547;Gestisci il gruppo COI_ADMINISTRATOR;256;2;256;1;7;544;8;26;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+549;Gestisci il gruppo AmmistratoreTracciaturaRich;161;2;260;1;7;544;8;14;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+550;Gestisci il gruppo OperatoriRichieste;69;2;261;1;3;544;8;14;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+551;Amministratore CE;74;2;234;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+552;Admin INPS;74;2;235;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+555;Amministratore di sede INPS;235;2;237;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+557;PA di consultazione;74;2;238;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+562;Operatore Cruscotto;74;2;239;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+563;Operatore sede CE;234;2;240;1;32;544;8;4;NULL;NULL;codiceUnitaCE=NO_CA03_BZ03;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+565;Operatore sede CE;74;2;240;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+568;Amministratore sede CE;234;2;236;1;32;544;8;4;NULL;NULL;codiceUnitaCE=NO_CA03_BZ03;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+569;Operatore sede CE;236;2;240;1;3;544;4;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+571;Stazione Appaltante;74;2;243;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+572;Stazione Appaltante;237;2;243;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+574;Stazione Appaltante;236;2;243;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+575;Stazione Appaltante;235;2;243;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+576;Stazione Appaltante;234;2;243;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+580;Delegati;243;2;251;1;3;544;4;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+581;Subdelegato Stazione Appaltante;237;2;251;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+582;Subdelegato Stazione Appaltante;236;2;251;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+585;Subdelegato Stazione Appaltante;234;2;251;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+587;Subdelegato Stazione Appaltante;235;2;251;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+589;Società Organismo Attestazioni;74;2;244;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+605;Operatore sede INAIL;74;2;241;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+610;Subdelegato PA di consultazione;238;2;250;1;3;544;4;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+614;Operatore sede INPS;237;2;242;1;3;544;4;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+617;Operatore sede INPS;74;2;242;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+618;Operatore sede INPS;235;2;242;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+620;Gestisci il gruppo AdminSSI;225;2;225;1;7;544;8;22;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+622;Operatore Sede INAIL;385;2;241;1;3;544;4;4;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+623;Operatore Sede INAIL;88;2;241;1;3;544;4;4;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+624;Gestisci il gruppo AdminDocebo;266;2;266;1;7;544;8;28;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+634;Operatore Cruscotto DURC;235;2;239;1;44;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+635;Subdelegato Amministratore CE;234;2;245;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+638;Gestisci il gruppo Operatore Generico Impresa;141;2;153;1;7;567;8;13;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+639;Gestisci il gruppo Operatore Ufficio Impresa;141;2;158;1;7;567;8;13;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+641;Consultatore globale CE;234;2;275;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+642;Consultatore globale CE;245;2;275;1;32;544;8;4;NULL;NULL;codiceUnitaCE=NO_CA03_BZ03;0;NULL;NULL;NULL;NULL;NULL
+643;Amministratore sede CE;275;2;236;1;32;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+644;Operatore sede Cassa Edile;275;2;240;1;32;544;8;4;NULL;NULL;codiceUnitaCE=NO_CA03_BZ03;0;NULL;NULL;NULL;NULL;NULL
+645;Operatore sede Cassa Edile;245;2;240;1;32;544;8;4;NULL;NULL;codiceUnitaCE=NO_CA03_BZ03;0;NULL;NULL;NULL;NULL;NULL
+646;Amministratore sede CE;245;2;236;1;32;544;8;4;NULL;NULL;codiceUnitaCE=NO_CA03_BZ03;0;NULL;NULL;NULL;NULL;NULL
+647;Amministratore di sede INPS;246;2;237;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+648;"Subdelegato amministratore INPS ";235;2;246;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+649;"	Operatore Cruscotto DURC";234;2;239;1;44;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+650;Gestisci il gruppo DelegatoDirRegionale;114;2;277;1;538;544;8;23;NULL;NULL;CodiceUnita=ConDR;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+651;Gestisci il gruppo DelegatoDirRegionale;115;2;277;1;538;544;8;23;NULL;NULL;CodiceUnita=ConDR;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+653;Gestisci il gruppo Utenti Elearning;266;2;278;1;7;544;8;28;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+654;Segreterie di Sede;385;2;279;1;3;544;4;31;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+655;Segreterie di Sede;88;2;279;1;3;544;4;31;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+656;Amministratore CS;280;2;280;1;7;544;8;31;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+659;Subdelegato di consorzio società cooperative;285;2;286;1;3;591;4;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+661;Subdelegato società capo gruppo;293;2;294;1;3;591;4;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+662;Delegati;287;2;288;1;15;567;16;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+663;Delegati;289;2;290;1;15;567;16;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+664;Delegati;291;2;292;1;15;567;16;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+665;Avvocato;62;2;287;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+666;Commercialista ed esperto contabile;62;2;289;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+667;Consulente del lavoro;62;2;291;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+668;Consorzio società cooperative;62;2;285;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+669;Società capogruppo;62;2;293;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+670;Operatore Inail Casellario;115;2;155;1;3;544;4;13;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+671;Operatore Inail Casellario;114;2;155;1;3;544;4;13;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+675;Gestisci il gruppo FED_ISPETTORI_INPS;304;2;305;1;7;544;8;35;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+676;Utenti WebSigner (con Token);308;2;306;1;7;544;8;36;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+677;Utenti Firma Digitale (senza Token);308;2;307;1;7;544;8;36;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+686;Operatori federazione con Inps;318;2;319;1;7;544;8;38;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+689;Operatori federazione con Inps;321;2;319;1;7;544;8;38;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+692;Gestisci il gruppo LogOnAsImpers;332;2;331;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+705;Gestisci il gruppo Delegato Direttore Regionale;114;2;341;1;7;544;8;20;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+706;Gestisci il gruppo Delegato Direttore Regionale;115;2;341;1;7;544;8;20;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+710;Stazione Appaltante 3.5;74;2;263;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+717;Amministratore Applicativo;359;2;359;1;7;544;8;44;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+728;Gestisci i responsabili di processo;385;2;366;2;543;544;536;6037;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+729;Gestisci Esperti di procedura;385;2;373;2;543;544;536;6008;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+731;Gestisci gli operatori di processo;385;2;376;2;543;544;536;6037;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+733;Gestisci gli utenti in sola lettura;385;2;378;2;543;544;536;6016;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+734;Gestisci i responsabili amministrativi dei provvedimenti;385;2;379;2;543;544;536;6037;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+739;Gestione Operatori;385;2;386;2;543;544;536;6036;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+740;Gestione Controllore;385;2;387;2;543;544;536;6035;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+741;Gestione Responsabile Processo GRAI;385;2;388;1;543;544;536;6036;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+742;Gestisci i responsabili di processo;88;2;366;2;543;544;536;6037;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+743;Gestisci Esperti di procedura;88;2;373;2;543;544;536;6008;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+746;Gestisci gli operatori di processo;88;2;376;2;543;544;536;6037;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+748;Gestisci gli utenti in sola lettura;88;2;378;2;543;544;536;6016;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+749;Gestisci i responsabili amministrativi dei provvedimenti;88;2;379;2;543;544;536;6037;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+750;Gestisci il responsabile di verifica;368;2;369;2;543;546;536;5971;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+751;Gestisci il Dirigente delle attività istituzionali;368;2;371;2;543;546;536;6029;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+752;Gestisci il vicario Dir. delle Att. istituzionali;368;2;372;2;543;546;536;6007;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+755;Gestione Operatori;385;2;392;2;543;544;536;6034;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+756;Gestione Controllore;385;2;393;2;543;544;536;5034;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+757;Gestione Operatori;1630;2;392;2;7;544;8;5900;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+758;Gestione Controllore;1630;2;393;2;7;544;8;5900;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+759;Gestione Contabile;1630;2;394;2;7;544;8;5900;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+760;Gestione Assistenza;1630;2;395;2;7;544;8;5900;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+767;Gestione Gruppo Dirigente Medico II Livello;450;2;408;1;543;541;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+768;Gestisci gruppo CC_Dirigente_medico_I_Livello;450;2;401;1;543;541;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+769;Gestisci gruppo CC_Specialista;450;2;405;1;543;541;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+770;Gestisci gruppo CC_Infermiere;450;2;402;1;543;540;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+771;Gestisci gruppo CC_Tecnico_radiologia;450;2;403;1;543;541;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+772;Gestisci gruppo CC_Fisioterapista;450;2;404;1;543;540;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+773;Gestisci gruppo CC_Dirigente_medico_I_Livello;408;2;401;1;543;541;536;5010;NULL;NULL;DataScadenza=attributo_disabilitato|PermessiCC=attributo_item_non_vis_del;1;NULL;575;ConsoleIntranet;NULL;NULL
+774;Gestisci gruppo CC_Fisioterapista;408;2;404;1;543;544;536;5010;NULL;NULL;DataScadenza=attributo_disabilitato|PermessiCC=attributo_item_non_vis_del;1;NULL;575;ConsoleIntranet;NULL;NULL
+775;Gestisci gruppo CC_Infermiere;408;2;402;1;543;544;536;5010;NULL;NULL;DataScadenza=attributo_disabilitato|PermessiCC=attributo_item_non_vis_del;1;NULL;575;ConsoleIntranet;NULL;NULL
+776;Gestisci gruppo CC_Specialista;408;2;405;1;543;541;536;5010;NULL;NULL;DataScadenza=attributo_disabilitato|PermessiCC=attributo_item_non_vis_del;1;NULL;575;ConsoleIntranet;NULL;NULL
+777;Gestisci gruppo CC_Tecnico_radiologia;408;2;403;1;543;540;536;5010;NULL;NULL;DataScadenza=attributo_disabilitato|PermessiCC=attributo_item_non_vis_del;1;NULL;575;ConsoleIntranet;NULL;NULL
+779;Gestisci gruppo CC_ResponsabileSanitarioCPR;450;2;410;2;543;541;536;5010;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+785;Gestisci gruppo CC_Dirigente_medico_I_Livello;410;2;401;1;543;541;536;5010;NULL;NULL;DataScadenza=attributo_disabilitato|PermessiCC=attributo_item_non_vis_del;1;NULL;575;ConsoleIntranet;NULL;NULL
+786;Gestisci gruppo CC_Specialista;410;2;405;1;543;541;536;5010;NULL;NULL;DataScadenza=attributo_disabilitato|PermessiCC=attributo_item_non_vis_del;1;NULL;575;ConsoleIntranet;NULL;NULL
+787;Gestisci gruppo CC_Infermiere;410;2;402;1;543;541;536;5010;NULL;NULL;DataScadenza=attributo_disabilitato|PermessiCC=attributo_item_non_vis_del;1;NULL;575;ConsoleIntranet;NULL;NULL
+788;Gestisci gruppo CC_Tecnico_radiologia;410;2;403;1;543;541;536;5010;NULL;NULL;DataScadenza=attributo_disabilitato|PermessiCC=attributo_item_non_vis_del;1;NULL;575;ConsoleIntranet;NULL;NULL
+789;Gestisci gruppo CC_Fisioterapista;410;2;404;1;543;540;536;5010;NULL;NULL;DataScadenza=attributo_disabilitato|PermessiCC=attributo_item_non_vis_del;1;NULL;575;ConsoleIntranet;NULL;NULL
+804;Gestisci Avvocato Generale;424;2;425;2;7;544;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+805;Assegnazione Amministrativi al Legale con Permessi personali;423;2;427;1;521;534;512;5902;NULL;NULL;userName=username_coordinatore|codicePermessoAmm=amministrativi_coordinatore;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+806;Assegnazione Amministrativi al Legale con Permessi personali;424;2;427;2;7;523;512;5902;NULL;428;codicePermessoAmm=amministrativi;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+807;Assegnazione Amministrativi al Legale con Permessi personali come Legale Assegnatore;426;2;427;2;539;535;512;5902;NULL;NULL;codiceAvvocatura=filtro_avvocati|codicePermessoAmm=amministrativi;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+808;Assegnazione Amministrativi al Legale con Permessi personali come Legale non Assegnatore;429;2;427;2;539;535;512;5902;NULL;NULL;codiceAvvocatura=filtro_avvocati|codicePermessoAmm=amministrativi;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+809;Assegnazione Amministrativi al Legale con Permessi personali;425;2;427;2;513;523;512;5902;NULL;428;codicePermessoAmm=amministrativi;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+810;Assegnazione Amministrativi ad Avvocatura con Permessi generali;423;2;428;1;529;544;8;5902;NULL;NULL;codicePermessoAmm=coordinatore;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+811;Assegnazione Amministrativi ad Avvocatura con Permessi generali;425;2;428;1;7;544;8;5902;NULL;NULL;codicePermessoAmm=avvocato_generale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+812;Assegnazione Amministrativi ad Avvocatura con Permessi generali;426;2;428;2;531;544;8;5902;NULL;NULL;codicePermessoAmm=legale_assegnatore;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+813;Gestisci Coordinatori;425;2;423;2;7;528;8;5902;NULL;NULL;codiceAvvocatura=filtro_avvgenerale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+814;Gestisci Coordinatori;424;2;423;2;7;528;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+815;Gestisci Monitoraggio;424;2;436;2;7;544;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+816;Gestisci Legali Assegnatori;423;2;426;2;529;530;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+817;Gestisci Legali Assegnatori;424;2;426;2;7;528;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+818;Gestisci Legali Assegnatori;425;2;426;2;7;528;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+819;Gestisci Legali non Assegnatori;423;2;429;2;529;530;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+820;Gestisci Legali non Assegnatori;424;2;429;2;7;528;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+821;Gestisci Legali non Assegnatori;425;2;429;2;7;528;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+822;Gestisci Operatori Assistenza IsiaWeb;424;2;430;2;7;544;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+823;Gestisci Operatori HelpDesk IsiaWeb;424;2;431;2;7;544;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+824;Gestisci Ragioneria Centrale;433;2;434;2;7;544;8;5902;NULL;codiceUnita=60013;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+825;Visualizza Ragioneria Centrale;424;2;434;2;7;544;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+826;Gestisci Responsabile Ragioneria Centrale;424;2;433;2;7;544;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+827;Visualizza Risorse Umane;424;2;437;2;7;544;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+828;Gestisci Responsabile Risorse Umane;424;2;435;2;7;544;8;5902;NULL;codiceUnita=60006;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+829;Gestisci Risorse Umane;435;2;437;2;7;544;8;5902;NULL;codiceUnita=60006;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+830;"Visualizza Contabile Regionale ";424;2;432;2;7;544;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+831;Gestisci Contabile Regionale;433;2;432;2;7;544;8;5902;NULL;codiceUnita=60013;codiceRegione=60009;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+832;Gestisci Contabile Regionale;413;2;432;1;514;544;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+833;Assegnazione Amministrativi ad Avvocatura con Permessi generali;424;2;428;2;7;544;8;5902;NULL;NULL;codicePermessoAmm=amministratore;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+834;Gestisci gruppo Rivalse_Operatore;385;2;439;2;543;544;536;5903;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+835;Gestisci gruppo DCC Giuffre;441;2;445;2;7;544;8;5904;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+836;Gestisci gruppo Custom Legali Giuffre;424;2;444;2;7;544;8;5904;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+837;Visualizza i Legali Inail;424;2;448;2;7;532;532;5904;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+838;Gestisci gruppo Consultazione;1630;2;449;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+839;Gestisci gruppo OperatoreDiProcesso;422;2;376;2;7;544;8;6008;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+841;Gestisci gruppo RespDiProcesso;422;2;366;2;7;544;8;6008;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+842;Gestisci gruppo ResponsabileAmministrativoDelProvvedimento;422;2;379;2;7;544;8;6008;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+843;Gestisci gruppo ResponsabileContabileDelProvvedimento;422;2;380;2;7;544;8;5998;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+844;Gestisci il responsabile di verifica;422;2;369;2;7;544;8;5971;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+849;Gestisci gruppo Direttori_Strutture (Sede e Regionali);1630;2;450;2;7;544;8;5035;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+851;Gestisci Esperto di Procedura;368;2;373;2;543;544;536;6007;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+858;Gestisci i vicari;385;2;88;1;543;544;536;6011;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+859;Gestisci gruppo Supporto;1630;2;456;2;7;544;8;5003;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+860;Gestisci Assistenza Responsabile Processo GRAI;413;2;457;1;525;544;8;5003;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+861;Gestisci Assistenza Responsabile Processo GRAI;456;2;457;1;7;544;8;5003;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+862;Gestisci gruppo Assistenza Controllore;413;2;458;2;525;544;8;5003;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+863;Gestisci gruppo Assistenza Controllore;456;2;458;2;7;544;8;5003;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+864;Gestisci gruppo Assistenza Operatore;413;2;459;2;525;544;8;5003;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+865;Gestisci gruppo Assistenza Operatore;456;2;459;2;7;544;8;5003;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+866;Gestisci Consultazione Responsabile Processo GRAI;413;2;460;1;525;544;8;5003;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+867;Gestisci Consultazione Responsabile Processo GRAI;456;2;460;1;7;544;8;5003;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+868;Gestisci gruppo Consultazione Controllore;413;2;461;2;525;544;8;5003;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+869;Gestisci gruppo Consultazione Controllore;456;2;461;2;7;544;8;5003;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+870;Gestisci gruppo Consultazione Operatore;413;2;462;2;525;544;8;5003;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+871;Gestisci gruppo Consultazione Operatore;456;2;462;2;7;544;8;5003;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+872;Gestisci gruppo Assistenza Contabile;413;2;463;2;525;544;8;5034;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+873;Gestisci gruppo Assistenza Controllore;413;2;464;2;525;544;8;5034;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+874;Gestisci gruppo Assistenza Operatore;413;2;465;2;525;544;8;5034;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+875;Gestisci gruppo Consultazione Contabile;413;2;466;2;525;544;8;6034;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+876;Gestisci gruppo Consultazione Controllore;413;2;467;2;525;544;8;6034;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+877;Gestisci gruppo Consultazione Operatore;413;2;468;2;525;544;8;6034;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+878;Gestisci gruppo Assistenza Contabile;456;2;463;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+879;Gestisci gruppo Assistenza Controllore;456;2;464;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+880;Gestisci gruppo Assistenza Operatore;456;2;465;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+881;Gestisci gruppo Consultazione Contabile;456;2;466;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+882;Gestisci gruppo Consultazione Controllore;456;2;467;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+883;Gestisci gruppo Consultazione Operatore;456;2;468;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+884;Gestisci gruppo Supporto;1630;2;469;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+885;Gestisci gruppo Assistenza_Contabile;469;2;463;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+886;Gestisci gruppo Assistenza_Controllore;469;2;464;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+887;Gestisci gruppo Assistenza_Operatore;469;2;465;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+888;Gestisci gruppo Consultazione_Contabile;469;2;466;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+889;Gestisci gruppo Consultazione_Controllore;469;2;467;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+890;Gestisci gruppo Consultazione_Operatore;469;2;468;2;7;544;8;5034;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+891;Gestisci gruppo Rivalse_Contabile;1630;2;438;2;7;544;8;5903;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+892;Gestisci gruppo Rivalse_Operatore;1630;2;439;2;7;544;8;5903;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+895;Gestisci gruppo ResponsabileAmministrativoDelProvvedimento;1630;2;379;2;7;544;8;6007;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+896;Gestisci i delegati per la profilazione;413;2;470;1;543;544;536;6001;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+897;Gestisci Assistenza Responsabile Processo GRAI;470;2;457;1;525;544;8;5003;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+898;Gestisci gruppo Assistenza Controllore;470;2;458;2;525;544;8;5003;;;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+899;Gestisci gruppo Assistenza Operatore;470;2;459;2;525;544;8;5003;;;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+900;Gestisci Consultazione Responsabile Processo GRAI;470;2;460;1;525;544;8;5003;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+901;Gestisci gruppo Consultazione Controllore;470;2;461;2;525;544;8;5003;;;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+902;Gestisci gruppo Consultazione Operatore;470;2;462;2;525;544;8;5003;;;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+903;Gestisci gruppo Assistenza Contabile;470;2;463;2;525;544;8;5034;;;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+904;Gestisci gruppo Assistenza Controllore;470;2;464;2;525;544;8;5034;;;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+905;Gestisci gruppo Assistenza Operatore;470;2;465;2;525;544;8;5034;;;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+906;Gestisci gruppo Consultazione Contabile;470;2;466;2;525;544;8;6034;;;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+907;Gestisci gruppo Consultazione Controllore;470;2;467;2;525;544;8;6034;;;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+908;Gestisci gruppo Consultazione Operatore;470;2;468;2;525;544;8;6034;;;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+909;Gestisci Contabile Regionale;470;2;432;1;514;544;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+910;Gestione Operatori;88;2;386;2;543;544;536;6036;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+911;Gestione Controllore;88;2;387;2;543;544;536;6035;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+912;Gestione Responsabile Processo GRAI;88;2;388;1;543;544;536;6036;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+913;Gestione Operatori;88;2;392;2;543;544;536;6034;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+914;Gestione Controllore;88;2;393;2;543;544;536;5034;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+916;Gestione Gruppo Dirigente Medico II Livello;88;2;408;1;543;541;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+917;Gestisci gruppo CC_Dirigente_medico_I_Livello;88;2;401;1;543;541;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+918;Gestisci gruppo CC_Specialista;88;2;405;1;543;541;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+919;Gestisci gruppo CC_Infermiere;88;2;402;1;543;540;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+920;Gestisci gruppo CC_Tecnico_radiologia;88;2;403;1;543;541;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+921;Gestisci gruppo CC_Fisioterapista;88;2;404;1;543;540;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+922;Gestisci gruppo Rivalse_Operatore;88;2;439;2;543;544;536;5903;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+923;Gestisci gruppo SolaLettura;1630;2;378;2;7;544;8;5971;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+924;Gestisci gruppo Rivalse Admin;1630;2;471;2;7;544;8;5903;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+925;Gestisci il gruppo Assistenza - Operatore;471;2;472;1;7;544;8;5903;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+927;Gestisci gruppo Delegato Monitoraggio;385;2;474;1;543;544;536;5003;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+928;Gestisci gruppo Delegato Monitoraggio;88;2;474;1;543;544;536;5003;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+929;Gestisci gruppo CRUAUTMASTER;476;2;475;2;7;544;8;5907;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+930;Gestisci gruppo ADMINCRUSCOTTOAUT;1630;2;476;2;7;544;8;5907;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+932;Gestisci gruppo SolaLetturaRegionali;470;2;477;2;543;544;536;5998;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+933;Gestisci gruppo SolaLetturaRegionali;413;2;477;2;543;544;536;5998;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+935;Gestisci gruppo VicDirUfficioPOC;470;2;368;2;543;544;536;5971;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+936;Gestisci gruppo ResponsabileVerifica;470;2;369;2;543;544;536;6039;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+937;Gestisci gruppo DirAttivitaIstituz;470;2;371;2;543;544;536;6028;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+938;Gestisci gruppo VicDirAttivitaIstituz;470;2;372;2;543;544;536;6006;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+939;Gestisci gruppo EspertoDiProcedura;470;2;373;2;543;544;536;6008;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+940;Gestisci gruppo VicDirUfficioPOC;413;2;368;2;543;544;536;5971;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+941;Gestisci gruppo ResponsabileVerifica;413;2;369;2;543;544;536;6039;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+942;Gestisci gruppo DirAttivitaIstituz;413;2;371;2;543;544;536;6028;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+943;Gestisci gruppo VicDirAttivitaIstituz;413;2;372;2;543;544;536;6006;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+944;Gestisci gruppo EspertoDiProcedura;413;2;373;2;543;544;536;6008;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+945;Gestisci gruppo CARCLIAssistenza;478;2;480;1;7;544;8;5027;NULL;NULL;PermessiCC=attributo_nonvisibile;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+946;Gestisci gruppo CARCLIConsultazione;478;2;479;2;7;544;8;5027;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+947;Gestisci gruppo CARCLIConsultazione;1630;2;479;2;7;544;8;5027;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+948;Gestisci gruppo CARCLIAssistenza;1630;2;480;1;7;544;8;5027;NULL;NULL;PermessiCC=attributo_nonvisibile;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+950;Gestisci gli amministratori DCC;1630;2;441;1;7;544;8;5904;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+959;Gestisci gruppo VicDirUfficioPOC;1630;2;368;2;7;544;8;5971;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+961;Gestisci gruppo Delegato Monitoraggio;413;2;474;1;525;544;8;5003;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+963;Gestisci gli admin;1630;2;491;1;7;544;8;5910;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+964;Gestisci gli utenti di monitoraggio;491;2;490;1;7;544;8;5910;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+975;Gestisci il gruppo Operatore_CTR;413;2;498;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+976;Gestisci il gruppo Operatore_DRRegionale;413;2;500;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+977;Gestisci il gruppo Operatore_RU;413;2;501;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+978;Gestisci il gruppo Operatore_CTE;497;2;503;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+979;Gestisci il gruppo Operatore_DCRU;497;2;505;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+980;Gestisci il gruppo Validatore_CTE;497;2;508;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+981;Gestisci il gruppo Validatore_DCRU;497;2;510;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+982;"Gestisci il gruppo Operatore_DCPatrimonio ";497;2;499;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+983;Gestisci il gruppo Validatore_Amministrativo_DCPatrimonio;497;2;504;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+984;Gestisci il gruppo Validatore_Contabile_DCPatrimonio;497;2;506;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+985;Gestisci il gruppo Validatore_Amm_DRRegionale;413;2;502;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+986;Gestisci il gruppo Validatore_ContDRRegionale;413;2;507;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+987;Gestisci il gruppo Validatore_RU;413;2;511;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+988;Gestisci il gruppo Validatore_CTR;413;2;509;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+989;Gestisci il gruppo Operatore_CTR;470;2;498;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+990;Gestisci il gruppo Operatore_DRRegionale;470;2;500;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+991;Gestisci il gruppo Operatore_RU;470;2;501;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+992;Gestisci il gruppo Validatore_Amm_DRRegionale;470;2;502;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+993;Gestisci il gruppo Validatore_ContDRRegionale;470;2;507;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+994;Gestisci il gruppo Validatore_CTR;470;2;509;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+995;Gestisci il gruppo Validatore_RU;470;2;511;1;543;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+996;"Gestisci il gruppo GestioniRiservate ";422;2;512;1;7;544;8;6007;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+997;Gestisci il gruppo Help Desk Eds;1630;2;513;1;7;544;8;5957;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+998;Gestisci il gruppo AddettoSicurezza;515;2;514;1;7;544;8;5960;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+999;"Gestisci il gruppo ResponsabileSicurezza ";515;2;518;1;7;544;8;5960;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1000;Gestisci il gruppo Incaricato;515;2;516;1;7;544;8;5960;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1001;Gestisci il gruppo SquadraSicurezza;515;2;519;1;7;544;8;5960;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1002;Gestisci il gruppo Vigilanza;515;2;520;1;7;544;8;5960;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1004;Gestisci il gruppo SolaLettura;422;2;378;1;7;544;8;5998;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1008;Gestisci Gestore Comunicazioni Statica;526;2;530;1;7;544;8;5963;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1009;Gestisci il gruppo AmministratoreAtti;1630;2;526;1;7;544;8;5963;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1010;Gestisci Gestore Circolari Statica;526;2;528;1;7;544;8;5963;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1011;Gestisci Monitoraggio Nazionale Comunicazioni;526;2;532;1;7;544;8;5963;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1012;Gestisci Monitoraggio Nazionale Circolare;526;2;531;1;7;544;8;5963;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1013;Gestisci Monitoraggio Sede Comunicazioni;526;2;534;1;7;544;8;5963;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1014;Gestisci Monitoraggio Sede Circolari;526;2;533;1;7;544;8;5963;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1015;Gestisci il gruppo Controllore_ESAW_Web;537;2;487;1;7;544;8;5909;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1016;Gestisci il gruppo Operatore_ESAW_Web;537;2;486;1;7;544;8;5909;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1017;Gestisci il gruppo Supervisore_ESAW_Web;537;2;488;1;7;544;8;5909;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1018;Gestisci il gruppo AmministratoreEsaw;537;2;537;1;7;544;8;5909;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1019;Gestisci il gruppo Amministratore;526;2;526;1;7;544;8;5963;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1020;Gestisci il gruppo OperatoreAmianto;385;2;540;1;3;544;4;5964;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1021;Gestisci il gruppo ValidatoreAmianto;385;2;545;1;3;544;4;5964;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1022;Gestisci il gruppo SuperVisoreSedeAmianto;385;2;544;1;3;544;4;5964;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1023;Gestisci il gruppo ResponsabileSedeAmianto;385;2;541;1;3;544;4;5964;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1024;Gestisci il gruppo DirezioneCentraleAmianto;538;2;539;1;7;544;8;5964;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1025;Gestisci il gruppo OperatoreAmianto;538;2;540;1;7;544;8;5964;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1026;Gestisci il gruppo ResponsabileSedeAmianto;538;2;541;1;7;544;8;5964;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1027;Gestisci il gruppo SuperVisoreNazAmianto;538;2;542;1;7;544;8;5964;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1028;Gestisci il gruppo SuperVisoreRegAmianto;538;2;543;1;7;544;8;5964;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1029;Gestisci il gruppo SuperVisoreSedeAmianto;538;2;544;1;7;544;8;5964;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1030;Gestisci il gruppo ValidatoreAmianto;538;2;545;1;7;544;8;5964;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1031;Gestisci il gruppo GestoriAcquisti;546;2;547;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1032;Gestisci il gruppo GestoriForniture;546;2;548;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1033;Gestisci il gruppo GestoriGare;546;2;549;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1034;Gestisci il gruppo GestoriPagamenti;546;2;550;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1035;Gestisci il gruppo GestoriTelecomunicazioni;546;2;552;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1036;Gestisci il gruppo VisPersonale;546;2;553;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1037;Gestisci il gruppo VisualizzatoriAcquisti;546;2;554;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1038;Gestisci il gruppo VisualizzatoriForniture;546;2;555;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1039;Gestisci il gruppo VisualizzatoriGare;546;2;556;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1040;Gestisci il gruppo VisualizzatoriPagamenti;546;2;557;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1041;Gestisci il gruppo VisualizzatoriTelecomunicazioni;546;2;558;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1042;Gestisci il gruppo AmministratoreAmianto;538;2;538;1;7;544;8;5964;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1043;Gestisci il gruppo Controllore_ESAW_Web;559;2;487;1;7;544;8;5909;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1044;Gestisci il gruppo Operatore_ESAW_Web;559;2;486;1;7;544;8;5909;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1045;Gestisci il gruppo Supervisore_ESAW_Web;559;2;488;1;7;544;8;5909;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1046;"Gestisci il gruppo Gestore Comunicazioni Dinamica ";526;2;529;1;7;544;8;5963;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1047;Gestisci il gruppo MonSede Comunicazioni Dinamica;526;2;535;1;7;544;8;5963;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1048;Gestisci il gruppo MonSedeCircolariDinamica;526;2;536;1;7;544;8;5963;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1051;Gestisci il gruppo SuperVisoreRegAmianto;413;2;543;1;7;544;8;5964;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1052;Gestisci il gruppo SuperVisoreRegAmianto;470;2;543;1;7;544;8;5964;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1053;Gestisci il gruppo OperatoreAmianto;88;2;540;1;3;544;4;5964;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1054;Gestisci il gruppo ResponsabileSedeAmianto;88;2;541;1;3;544;4;5964;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1055;Gestisci il gruppo SuperVisoreSedeAmianto;88;2;544;1;3;544;4;5964;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1056;Gestisci il gruppo ValidatoreAmianto;88;2;545;1;3;544;4;5964;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1058;Gestisci il gruppo Responsabile Contabile del Provvedimento;413;2;380;1;543;544;536;6038;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1059;Gestisci il gruppo Responsabile Contabile del Provvedimento;470;2;380;1;543;544;536;6038;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1060;Gestisci il gruppo Contabile;413;2;394;1;543;544;536;5034;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1061;Gestisci il gruppo Contabile;470;2;394;1;543;544;536;5034;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1062;Gestisci il gruppo Rivalse_Contabile;413;2;438;1;543;544;536;5903;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1063;Gestisci il gruppo Rivalse_Contabile;470;2;438;1;543;544;536;5903;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1064;Gestisci il gruppo Controllore;385;2;561;1;543;544;536;5903;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1065;Gestisci il gruppo Rivalse_Controllore;88;2;561;1;543;544;536;5903;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1066;Gestisci il gruppo Rivalse_Operatore;471;2;439;1;7;544;8;5903;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1067;Gestisci il gruppo Rivalse_Contabile;471;2;438;1;7;544;8;5903;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1068;Gestisci il gruppo Revisore;423;2;563;1;7;528;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1069;Gestisci il gruppo Revisore;424;2;563;1;7;528;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1070;Gestisci il gruppo Esperto Amministrativo;567;2;564;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1071;Gestisci il gruppo Esperto Contabile;568;2;565;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1072;Gestisci il gruppo Personale Esterno;569;2;566;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1073;Gestisci il gruppo Responsabile DCRU;569;2;567;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1074;Gestisci il gruppo Responsabile DCRAG;569;2;568;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1075;Gestisci il gruppo Utenti Amministrativi;413;2;570;1;543;544;536;5967;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1076;Gestisci il gruppo Utenti Contabili;413;2;571;1;543;544;536;5967;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1077;Gestisci il gruppo Admin Massimario;424;2;562;1;7;544;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1078;Gestisci il gruppo Supervisore;424;2;572;1;7;528;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1079;Gestisci il gruppo ISIAvvSupervisore;425;2;572;1;7;528;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1088;Gestione Operatori;107;2;108;1;7;544;8;5969;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1089;Gestione Responsabile Processo;107;2;109;1;7;544;8;5969;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1090;Gestisci il gruppo GestoriPersonale;546;2;551;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1091;Gestisci il gruppo GestPraAcquisti;546;2;584;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1092;Gestisci il gruppo InPraAcquisti;546;2;585;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1093;Gestisci il gruppo ManPraAcquisti;546;2;586;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1094;Gestisci il gruppo VisPraAcquisti;546;2;587;1;7;544;8;5965;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1097;Gestisci il gruppo Amministratore Portale del Dipendente;1630;2;591;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1098;Gestisci il gruppo Segreteria Dinamica;591;2;535;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1099;Gestisci il gruppo Segreteria Statica;591;2;593;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1123;Gestisci il gruppo VHR;599;2;604;1;7;544;8;5974;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1124;Gestisci il gruppo Tributario;599;2;603;1;7;544;8;5974;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1125;Gestisci il gruppo Direzione Generale Fisco;599;2;601;1;7;544;8;5974;NULL;NULL;codiceUnita=soloDirezioni;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1126;Gestisci il gruppo Amministratore Tributario;599;2;600;1;7;544;8;5974;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1127;Gestisci il gruppo Tributario;600;2;603;1;7;544;8;5974;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1128;Gestisci il gruppo VHR;600;2;604;1;7;544;8;5974;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1129;Gestisci il gruppo Direzione Generale Fisco;600;2;601;1;7;544;8;5974;NULL;NULL;codiceUnita=soloDirezioni;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1130;"  Gestisci il gruppo Master di Struttura Sede";413;2;602;1;525;515;8;5974;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1131;Gestisci il gruppo Contabile DR;413;2;606;1;543;544;536;5003;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1132;Gestisci il gruppo UfficioVigilanza;422;2;607;1;7;544;8;5975;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1133;Gestisci il gruppo Ufficio Vigilanza Regionale;413;2;609;1;543;544;536;5983;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1134;Gestisci il gruppo UfficioVigilanzaRegionale;470;2;609;1;543;544;536;5983;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1135;Gestisci il gruppo Contabile DR;470;2;606;1;543;544;536;5003;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1136;Gestisci il gruppo Master di Struttura Sede;599;2;602;1;7;544;8;5974;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1137;Gestisci il gruppo Master di Struttura 760;599;2;610;1;7;544;8;5974;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1138;Gestisci il gruppo Tributario 760;599;2;611;1;7;544;8;5974;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1139;Gestisci il gruppo Tributario 760;600;2;611;1;7;544;8;5974;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1142;Gestisci il gruppo MasterStruttura760;413;2;610;1;525;515;8;5974;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1143;Gestisci il gruppo FormAmmForm;615;2;616;1;7;544;8;5980;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1144;Gestisci il gruppo Operatore Centrale;616;2;618;1;7;544;8;5980;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1145;Gestisci il gruppo Utente Centrale;616;2;621;1;7;544;8;5980;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1146;Gestisci il gruppo Operatore Nazionale;616;2;619;1;7;544;8;5980;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1147;Gestisci il gruppo Utente Nazionale;616;2;622;1;7;544;8;5980;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1148;Gestisci il gruppo Formatore;616;2;617;1;7;544;8;5980;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1149;Gestisci Utente Regionale;413;2;623;1;525;544;536;5980;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1150;Gestisci il gruppo Utente Regionale;470;2;623;1;525;544;536;5980;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1151;Gestisci il gruppo Operatore Regionale;413;2;620;1;525;544;536;5980;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1152;Gestisci il gruppo Operatore Regionale;470;2;620;1;525;544;8;5980;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1153;Gestisci il gruppo Utente Amministrativo Regione;624;2;625;1;7;544;8;5981;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1154;Gestisci il gruppo Utente Amministrativo Sede;624;2;626;1;7;544;8;5981;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1155;Gestisci il gruppo Utente Direttore Centrale;624;2;627;1;7;544;8;5981;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1156;Gestisci il gruppo Utente Amministrativo Regione;413;2;625;1;7;544;8;5981;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1157;Gestisci il gruppo Utente Amministrativo Regione;470;2;625;1;7;544;8;5981;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1158;Gestisci il gruppo Amministratore Gestore SABS;632;2;630;1;7;544;8;5984;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1159;Gestisci il gruppo AmministratoreGestoreValidatoreSABS;632;2;631;1;7;544;8;5984;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1160;Gestisci il gruppo AssistenzaSABS;632;2;633;1;7;544;8;5984;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1161;Gestisci il gruppo ContabileSABS;632;2;635;1;7;544;8;5984;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1162;Gestisci il gruppo DirezioneCentraleSABS;632;2;636;1;7;544;8;5984;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1163;Gestisci il gruppo DirezioneRegionaleSABS;632;2;637;1;7;544;8;5984;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1164;Gestisci il gruppo DirezioneTerritorialeSABS;632;2;638;1;7;544;8;5984;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1165;Gestisci il gruppo FornitoriSABS;632;2;639;1;7;544;8;5984;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1166;Gestisci il gruppo GestoreAlboBeneficiariSABS;632;2;640;1;7;544;8;5984;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1167;Gestisci il gruppo UtenteProvvidenzeSABS;632;2;641;1;7;544;8;5984;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1168;Gestisci il gruppo UtentePubblicatoreAlboSABS;632;2;642;1;7;544;8;5984;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1169;Gestisci il gruppo ConsultazioneSABS;632;2;634;1;7;544;8;5984;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1170;Gestisci il gruppo Utenti Amministrativi;385;2;570;1;543;544;536;5967;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1171;Gestisci il gruppo Utenti Contabili;385;2;571;1;543;544;536;5967;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1172;Gestisci il gruppo Utenti Amministrativi;569;2;570;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1173;Gestisci il gruppo Utenti Contabili;569;2;571;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1174;Gestisci il gruppo Esperto Amministrativo;569;2;564;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1175;Gestisci il gruppo Esperto Contabile;569;2;565;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1176;Gestisci il gruppo Tecnici Appllicativi Responsabili Inail;569;2;569;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1181;"Gestisci il gruppo Dirigenti Portale dipendente Dinamico ";591;2;648;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1182;Gestisci il gruppo Dirigenti Portale dipendente Statico;591;2;649;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1203;Gestisci il gruppo DirettoreCentralePom;677;2;672;1;7;544;8;6115;NULL;NULL;NULL;1;0;NULL;ConsoleIntranet;NULL;NULL
+1204;Gestisci il gruppo GestoreDiproceduraPom;677;2;673;1;7;544;8;6115;NULL;NULL;NULL;1;0;NULL;ConsoleIntranet;NULL;NULL
+1205;Gestisci il gruppo GestoreDiSedePom;385;2;674;1;3;544;4;6057;NULL;NULL;NULL;1;0;575;ConsoleIntranet;NULL;NULL
+1206;Gestisci il gruppo HELPDESK;677;2;675;1;7;544;8;6115;NULL;NULL;NULL;1;0;NULL;ConsoleIntranet;NULL;NULL
+1207;Gestisci il gruppo LettoreDiSedePom;385;2;676;1;3;544;4;6057;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1208;Gestisci il gruppo UserRegionale;413;2;679;1;3;544;4;5988;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1210;Gestisci il gruppo Validatori Modelli;422;2;681;1;7;544;8;5989;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1211;Gestisci il gruppo APCUtentiAmministrativi;470;2;570;1;543;544;536;5967;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1212;Gestisci il gruppo APCUtentiAmministrativi;88;2;570;1;543;544;536;5967;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1213;Gestisci il gruppo APCUtentiContabili;470;2;571;1;543;544;536;5967;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1214;Gestisci il gruppo APCUtentiContabili;88;2;571;1;543;544;536;5967;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1225;Gestisci il gruppo Utente Centro Servizi;564;2;687;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1226;Gestisci il gruppo Utente Centro Servizi;569;2;687;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1227;Gestisci il gruppo APCEspertoTributario;568;2;688;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1228;Gestisci il gruppo APCEspertoTributario;569;2;688;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1229;Gestisci il gruppo RepDirAmministratori;689;2;689;1;7;544;8;5993;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1230;Gestisci il gruppo RepDirCertificatoriInail;689;2;690;1;7;544;8;5993;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1231;Gestisci il gruppo RepDirUtentiNonInail;689;2;691;1;7;544;8;5993;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1237;Gestisci il gruppo SuperVisore Statico;591;2;698;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1238;Gestisci il gruppo RNMPAMMINISTRATORE;699;2;699;1;7;544;8;5994;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1239;Gestisci il gruppo RNMPDIREZIONECENTRALE;699;2;700;1;7;544;8;5994;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1240;Gestisci il gruppo RNMPOPERATORE;699;2;701;1;7;544;8;5994;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1241;Gestisci il gruppo RNMPSUPERVISORE;699;2;702;1;7;544;8;5994;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1242;Gestisci il gruppo RNMPOPERATORE;385;2;701;1;543;544;536;5994;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1243;Gestisci il gruppo RNMPSUPERVISORE;385;2;702;1;543;544;536;5994;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1244;Gestisci il gruppo Responsabile Area/Processo Statica;591;2;704;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1245;Gestisci il gruppo SuperVisore Dinamico;591;2;697;1;7;544;8;5966;;;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1246;Gestisci il gruppo Responsabile Area/Processo Dinamica;591;2;703;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1247;Gestisci il gruppo Segreterie;423;2;705;1;529;507;8;5995;NULL;NULL;userName=username_coordinatore|codicePermessoAmm=amministrativi_coordinatore;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1248;Gestisci il gruppo Segreterie;706;2;705;1;7;507;8;5995;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1249;Gestisci il gruppo AmministratorePCT;425;2;706;1;7;544;8;5995;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1250;Gestisci il gruppo Amministratore;708;2;708;1;7;544;8;5996;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1251;Gestisci il gruppo DwUtente;708;2;709;1;7;544;8;5996;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1252;Gestisci il gruppo Vicario statico;591;2;711;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1253;Gestisci il gruppo Vicario dinamico;591;2;710;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1254;Gestisci il gruppo Responsabile Prevenzione Centrale;422;2;713;1;7;544;8;5997;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1255;Gestisci il gruppo Responsabile Prevenzione Sede;385;2;715;1;543;544;536;5997;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1256;Gestisci il gruppo ResponsabilePrevenzioneSede;88;2;715;1;543;544;536;5997;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1257;Gestisci il gruppo Responsabile Prevenzione Regionale;413;2;714;1;543;544;536;5997;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1258;Gestisci il gruppo Responsabile Prevenzione Regionale;470;2;714;1;543;544;536;5997;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1259;Gestisci il gruppo Segreteria Amministrativa Dinamica;591;2;716;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1260;Gestisci il gruppo Segreteria Economica Dinamica;591;2;718;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1261;Gestisci il gruppo Segreteria Amministrativa Statica;591;2;717;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1262;Gestisci il gruppo Segreteria Economica Statica;591;2;719;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1263;Gestisci il gruppo Responsabile Tipo B Dinamico;591;2;720;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1264;Gestisci il gruppo ResponsabileTipo C Dinamico;591;2;722;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1265;Gestisci il gruppo ResponsabileTipo B Statico;591;2;721;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1266;Gestisci il gruppo ResponsabileTipo C Statico;591;2;723;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1267;Gestisci gli utenti di UnicoLavoro;725;2;724;1;7;544;8;6003;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1268;Gestisci il gruppo Utente Prestazioni;726;2;727;1;7;544;8;6004;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1269;Gestisci il gruppo FEDirezionale;728;2;729;1;7;544;8;6005;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1270;Gestisci il gruppo Utenti Contact Center;728;2;390;1;7;544;8;6005;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1271;Gestisci il gruppo FEPOLOFORMATIVO;728;2;730;1;7;544;8;6005;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1272;Gestisci il gruppo GestoreDiSedePom;88;2;674;1;3;544;4;6115;NULL;NULL;NULL;1;0;575;ConsoleIntranet;NULL;NULL
+1273;"Gestisci il gruppo Utente Amministrativo Sede Questionario Intranet ";413;2;626;1;525;515;8;5981;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1274;"Gestisci il gruppo Utente Amministrativo Sede Questionario Intranet ";470;2;626;1;525;515;8;5981;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1275;Gestisci il gruppo Utente Amministrativo Sede Questionario Intranet;385;2;626;1;3;544;8;5981;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1276;Gestisci il gruppo lettore di sede POM;88;2;676;1;3;544;4;6057;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1277;Gestisci il gruppo Responsabile DC Patrimonio;569;2;589;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1278;Gestisci il gruppo EspertoDCPatrimonio;569;2;588;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1279;Gestisci il gruppo UtenteAmministrativoSedeQuestIntra;88;2;626;1;3;544;8;5981;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1280;Gestisci il gruppo Cord Tec CONTARP;413;2;736;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1281;Gestisci il gruppo Cord Tec CTE;413;2;737;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1282;Gestisci il gruppo Responsabile Affari Istituzionali;413;2;740;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1283;Gestisci il gruppo Resp Prev Regionale;413;2;742;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1284;Gestisci il gruppo Va lAmm Regionale;413;2;745;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1285;Gestisci il gruppo Val Tec CONTARP;413;2;747;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1286;Gestisci il gruppo Val Tec CTE;413;2;748;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1287;Gestisci il gruppo Resp Prev di Sede;385;2;743;1;543;544;536;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1288;Gestisci il gruppo Val Amm di Sede;385;2;746;1;543;544;536;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1289;"Gestisci il gruppo DCSIT ";739;2;739;1;7;544;8;6012;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1290;Gestisci il gruppo DCPREV;739;2;738;1;7;544;8;6012;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1291;Gestisci il gruppo Resp Prev Centrale;738;2;741;1;7;544;8;6012;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1292;Gestisci il gruppo Va lAmm Centrale;738;2;744;1;7;544;8;6012;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1293;"Gestisci il gruppo Val Amm di Sede ";88;2;746;1;543;544;536;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1294;Gestisci il gruppo Resp Prev di Sede;88;2;743;1;543;544;536;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1295;"Gestisci il gruppo Cord Tec CONTARP ";470;2;736;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1296;Gestisci il gruppo Cord Tec CTE;470;2;737;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1297;"Gestisci il gruppo Responsabile Affari Istituzionali ";470;2;740;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1298;"Gestisci il gruppo Resp Prev Regionale ";470;2;742;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1299;"Gestisci il gruppo Va lAmm Regionale ";470;2;745;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1300;"Gestisci il gruppo Val Tec CONTARP ";470;2;747;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1301;"Gestisci il gruppo Val Tec CTE ";470;2;748;1;3;544;4;6012;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1302;"Gestisci il gruppo Segreteria DCRU ";591;2;749;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1303;Gestisci il gruppo Supervisore Segreteria Economica;591;2;750;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1304;Gestisci il gruppo Supervisore Segreteria Amministrativa;591;2;751;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1305;Gestisci il gruppo Dirigente_medico_I_Livello;770;2;401;1;543;541;536;5010;NULL;NULL;PPermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+1311;Gestisci il gruppo Dirigente_medico_II_Livello;770;2;408;1;543;541;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+1312;Gestisci il gruppo Specialista;770;2;405;1;543;541;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+1313;Gestisci il gruppo Fisioterapista;770;2;404;1;543;540;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+1314;Gestisci il gruppo Infermiere;770;2;402;1;543;541;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+1315;Gestisci il gruppo Tecnico_radiologia;770;2;403;1;543;541;536;5010;NULL;NULL;PermessiCC=attributo_nonvisibile_default_from_ds;1;NULL;575;ConsoleIntranet;NULL;NULL
+1316;Gestisci il gruppo Proponente Statico;591;2;764;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1317;Gestisci il gruppo Consulente Statico;591;2;760;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1318;Gestisci il gruppo Decisore Statico;591;2;762;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1319;Gestisci il gruppo Rivalse Consultazione Contabile;413;2;780;1;525;515;8;5903;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1320;Gestisci il gruppo Rivalse Consultazione Controllore;413;2;776;1;538;515;8;5903;NULL;NULL;codiceUnita=soloSediSenzaDirCentrXRegione;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1321;Gestisci il gruppo Rivalse Consultazione Operatore;413;2;778;1;538;515;8;5903;NULL;NULL;codiceUnita=soloSediSenzaDirCentrXRegione;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1322;Gestisci il gruppo Rivalse Consultazione Controllore;385;2;777;1;543;546;536;5903;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1323;Gestisci il gruppo Rivalse Consultazione Operatore;385;2;779;1;543;546;536;5903;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1324;" Responsabile di Regione";782;2;785;1;543;544;536;6015;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1325;Amministratore Centrale;781;2;781;1;7;544;8;6015;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1326;Responsabile di Sede;782;2;786;1;516;544;8;6015;NULL;NULL;codiceUnita=ConDRNoC;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1327;Visualizzatori;781;2;787;1;7;544;8;6015;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1328;Amministratore Regionale;781;2;782;1;7;544;8;6015;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1329;Operatore;782;2;783;1;516;544;8;6015;NULL;NULL;codiceUnita=ConDRNoC;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1330;Responsabile DC;781;2;784;1;550;544;8;6015;NULL;NULL;codiceUnita=60070;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1331;Capo Progetto Applicativo;788;2;766;1;7;544;8;5906;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1332;Help Desk;788;2;767;1;7;544;8;5906;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1333;Procedurale;788;2;768;1;7;544;8;5906;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1334;Redattori;788;2;769;1;7;544;8;5906;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1335;Amministratore Gestore Eventi;788;2;765;1;7;544;8;5906;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1336;Operatore DC;781;2;783;1;550;544;8;6015;NULL;NULL;codiceUnita=60070;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1337;SmsGateway;788;2;453;1;7;544;8;5906;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1338;Gestisci il gruppo Segreteria Concorsi Statica;591;2;789;1;543;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1339;Gestisci il gruppo Consultazione Cruscotto Compensazioni;791;2;790;1;7;544;8;6020;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1340;Gestisci il gruppo Utent Registro Imprese Vari;422;2;792;1;7;544;8;6021;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1341;Gestisci il gruppo Amministratore Amministrativo Cruscotto Casellario;794;2;793;1;7;544;8;6022;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1342;Gestisci il gruppo Operatore Contributi;794;2;795;1;7;544;8;6022;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1343;Gestisci il gruppo Operatore DB Utenti;794;2;796;1;7;544;8;6022;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1344;Gestisci il gruppo Operatore Monitoraggio;794;2;797;1;7;544;8;6022;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1345;Gestisci il gruppo Operatore Contributi;793;2;795;1;7;544;8;6022;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1346;Gestisci il gruppo Operatore DB Utenti;793;2;796;1;7;544;8;6022;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1347;Gestisci il gruppo Operatore Monitoraggio;793;2;797;1;7;544;8;6022;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1348;Gestisci il gruppo PorDipSupBeneStat;591;2;801;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1349;Gestisci il gruppo Assistenza - Contabile;471;2;802;1;7;544;8;5903;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1350;Gestisci il gruppo Assistenza - Controllore;471;2;803;1;7;544;8;5903;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1351;Utenti UTP;809;2;804;1;7;544;8;6023;NULL;NULL;codiceUnita=adminDocumentale;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1352;Responsabile Struttura Interna;809;2;805;1;7;544;8;6023;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1353;Responsabile UTP AOO;809;2;806;1;7;544;8;6023;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1354;Utente UTP Struttura Interna;809;2;807;1;7;544;8;6023;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1355;Vicario UTP AOO;809;2;808;1;7;544;8;6023;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1356;Vicario AOO;810;2;811;1;543;544;536;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1357;Utenti UTP;810;2;804;1;543;544;536;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1358;Utenti UTP;811;2;804;1;543;544;536;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1359;Responsabile Struttura Interna;810;2;805;1;543;544;536;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1360;Responsabile Struttura Interna;811;2;805;1;3;544;4;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1361;Responsabile UTP AOO;810;2;806;1;3;544;4;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1362;Responsabile UTP AOO;811;2;806;1;3;544;4;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1363;Utente UTP Struttura Interna;810;2;807;1;543;544;536;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1364;"Utente UTP Struttura Interna ";811;2;807;1;3;544;4;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1365;Vicario UTP AOO;810;2;808;1;543;544;536;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1366;Vicario UTP AOO;811;2;808;1;3;544;4;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1367;Vicario AOO;809;2;811;1;7;544;8;6023;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1368;Gestisci le Direzioni Centrali;422;2;816;1;7;505;8;6024;NULL;60000|60002;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1369;Gestisci il Gruppo Lavoro Informatizzazione;422;2;817;1;7;544;8;6024;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1370;Gestisci le Segreterie delle Direzioni Centrali;422;2;821;1;7;505;8;6024;NULL;60000|60002;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1371;Gestisci il gruppo CONTARPSegDirReg;371;2;822;1;3;544;4;6024;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1372;Gestisci il gruppo Utente Direzione Regionale;413;2;824;1;543;544;536;5967;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1373;Gestisci il gruppo Utente Direzione Regionale;385;2;824;1;543;544;536;5967;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1374;Gestisci il gruppo Utente Direzione Regionale;569;2;824;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1375;Gestisci il gruppo Utenti ISPESL;569;2;825;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1376;Gestisci il gruppo Ispettori dinamico;591;2;826;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1377;Gestisci il gruppo Ispettori statico;591;2;827;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1380;"	Gestisci il gruppo Coordinatore di Settore Dinamico";591;2;831;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1381;Gestisci il gruppo Coordinatore di Settore Statico;591;2;832;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1382;Gestisci il gruppo Proponente Dinamico;591;2;763;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1383;Gestisci il gruppo Decisore Dinamico;591;2;761;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1384;Gestisci il gruppo Consulente Dinamico;591;2;759;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1386;Utente per posta in uscita;810;2;835;1;543;544;536;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1387;Utente per posta in uscita;811;2;835;1;543;544;536;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1388;Gestisci il gruppo CONTARPLavDirReg;371;2;836;1;3;544;4;6024;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1390;Gestisci il gruppo amministratori CoCoPro;837;2;837;1;7;544;8;6027;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1391;Gestisci il gruppo operatore CoCoPro;837;2;838;1;7;544;8;6027;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1392;Gestisci il gruppo Amministratore;191;2;191;1;7;544;8;19;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1393;Gestisci il gruppo Consultazione Operatore per Sede;471;2;779;1;7;544;8;5903;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1394;Gestisci il gruppo ConsultazioneCruscConv;839;2;840;1;7;544;8;6030;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1395;Gestisci il gruppo OperativoCruscConv;839;2;841;1;7;544;8;6030;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1407;Gestisci il gruppo IsiavvSperimentatori;425;2;845;1;7;528;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1408;Gestisci il gruppo IsiavvSperimentatori;424;2;845;1;7;528;8;5902;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1409;Gestisci il gruppo Segreteria Mobilità Dinamica;591;2;731;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1410;Gestisci il gruppo Segreteria Mobilità Statica;591;2;732;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1411;Gestisci il gruppo Segreteria Mobilità Amministrativa Dinamica;591;2;733;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A70001;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1412;Gestisci il gruppo Segreteria Mobilità Amministrativa Statica;591;2;734;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1418;Delegati;110;2;853;1;15;567;16;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1419;Delegati;111;2;854;1;15;567;16;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1420;Delegati;112;2;856;1;15;567;16;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1430;Gestisci il gruppo Redattore_News;497;2;860;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1457;Validatore;887;2;890;1;7;544;8;6033;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1460;Amministratore di Sistema;887;2;887;1;7;544;8;6033;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1461;Gestisci il gruppo COI_RAGIONERIA;256;2;892;1;7;544;8;26;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1462;Gestisci il gruppo Utente struttura CIV;569;2;893;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1463;Gestisci il gruppo Utente Supporto Organi;569;2;894;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1464;Gestisci il gruppo Responsabile CIV;569;2;895;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1465;Gestisci il gruppo Responsabile ORG;569;2;896;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1466;Gestisci il gruppo APCUtenteStruttCIV;895;2;893;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1467;Gestisci il gruppo APCUtenteSuppOrgani;896;2;894;1;7;544;8;5967;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1470;Gestisci il gruppo Websigner ADMIN;1630;2;308;1;7;544;8;36;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1471;Gestisci il gruppo Pensionati;900;2;901;1;7;544;8;6040;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1472;Gestisci il gruppo Supervisore statica;900;2;899;1;7;544;8;6040;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1473;"Gestisci il gruppo Segreteria Statica ";900;2;898;1;7;544;8;6040;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1475;Vicario Struttura Interna;806;2;902;1;3;544;4;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1476;Vicario Struttura Interna;808;2;902;1;3;544;4;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1477;Vicario Struttura Interna;809;2;902;1;7;544;8;6023;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1479;Vicario Struttura Interna;811;2;902;1;3;544;4;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1480;Vicario Struttura Interna;810;2;902;1;3;544;4;6023;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1482;Gestisci il gruppo Supervisore Cedolini Ricerca;591;2;906;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1484;Gestisci il gruppo Supervisore Cedolini;591;2;905;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1486;Gestisci il gruppo AdminSistemaGP;908;2;908;1;7;544;8;6042;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1487;Gestisci il gruppo AdminServizioGP;908;2;907;1;7;544;8;6042;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1495;Gestisci il gruppo CITT_INPS_CON_DISP;304;2;913;1;7;544;8;35;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1496;Gestisci il gruppo CITT_INPS_SENZA_DISP;304;2;914;1;7;544;8;35;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1497;Amministratore Centrale Profili/Strutture P.A. in Gestione Conto Stato;916;2;915;1;7;544;8;6047;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1498;Delegato Amministratore Centrale Profili/Strutture P.A. in Gestione Conto Stato;915;2;917;1;73;544;74;6047;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1499;Amministratore Raggruppamento di Strutture P.A. in Gestione Conto Stato;915;2;918;1;66;544;67;6047;NULL;NULL;NULL;0;1;NULL;NULL;NULL;NULL
+1500;Amministratore Raggruppamento di Strutture P.A. in Gestione Conto Stato;917;2;918;1;66;544;67;6047;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1501;Delegato Amministratore Raggruppamento Di Strutture P.A. in Gestione Conto Stato;918;2;919;1;73;544;74;6047;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1502;Datore di Lavoro di Struttura P.A. in Gestione Conto Stato;915;2;920;1;63;544;64;6047;NULL;NULL;NULL;0;2;NULL;NULL;NULL;NULL
+1503;Datore di Lavoro di Struttura P.A. in Gestione Conto Stato;918;2;920;1;68;567;69;6047;NULL;NULL;StrutturaPA=RaggStrutPA;0;1;NULL;NULL;NULL;NULL
+1504;Datore di Lavoro di Struttura P.A. in Gestione Conto Stato;917;2;920;1;63;544;64;6047;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1505;Datore di Lavoro di Struttura P.A. in Gestione Conto Stato;919;2;920;1;68;544;69;6047;NULL;NULL;StrutturaPA=RaggStrutPA;0;NULL;NULL;NULL;NULL;NULL
+1506;Delegato Datore di Lavoro di Struttura P.A. in Gestione Conto;920;2;921;1;73;544;74;6047;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1508;Gestisci il gruppo AdminEventManager;923;2;923;1;7;544;8;6045;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1510;Utenti con Strong Authentication;925;2;926;1;7;544;8;6046;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1511;Gestisci il gruppo DURCAVCP;74;2;930;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1515;Gestisci il gruppo AziendeSubDelDen;304;2;101;1;7;544;8;35;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1516;Gestisci il gruppo DURCAdminINPS;304;2;235;1;7;544;8;35;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1517;Gestisci il gruppo DURCAdminSedeINPS;304;2;237;1;7;544;8;35;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1518;Gestisci il gruppo DURCOperatoreCruscotto;304;2;239;1;7;544;8;35;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1519;Gestisci il gruppo DURCOperatoreSedeINPS;304;2;242;1;7;544;8;35;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1520;Gestisci il gruppo DURCsubAdminINPS;304;2;246;1;7;544;8;35;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1521;Gestisci il gruppo RNMPOPERATORE;88;2;701;1;543;544;536;5994;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1522;Gestisci il gruppo RNMPSUPERVISORE;88;2;702;1;543;544;536;5994;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+1523;Gestisci i subdelegati alla denuncia d'infortuni INAIL;450;2;101;1;556;544;559;3;NULL;NULL;userNamePadre=AdminInail;0;NULL;NULL;NULL;NULL;NULL
+1525;"Gestisci gli operatori inail ";934;2;935;1;7;544;8;6048;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1526;Gestisci i referenti regionali;934;2;936;1;7;591;8;6048;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1527;Gestisci i referenti regionali;935;2;936;1;7;591;8;6048;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1528;Operatori;936;2;937;1;3;544;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1529;Referenti ASL;936;2;938;1;561;544;8;-1;NULL;NULL;codiceASL=codiceRegioneIstat;0;NULL;NULL;NULL;NULL;NULL
+1530;Referenti ASL;937;2;938;1;561;544;8;-1;NULL;NULL;codiceASL=codiceRegioneIstat;0;NULL;NULL;NULL;NULL;NULL
+1531;Operatori ASL;938;2;939;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1532;Gestisci il gruppo Segreteria Statica;191;2;940;1;7;544;8;19;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1539;Gestisci il gruppo Segreteria Regionale Statica;591;2;950;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1540;EspertoDiProcedura;422;2;373;1;7;544;8;5055;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1553;IspezioniSedi;1630;2;955;1;7;544;8;-1;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1554;Gestisci il gruppo IspezioniSedi;956;2;955;1;7;590;8;-1;NULL;ya%|ydxc%;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1555;Gestisci il gruppo DirigentiIspettori;1630;2;957;1;7;544;8;6050;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1558;Gestisci il gruppo Operatore;962;2;963;1;7;544;8;6055;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1559;Gestisci il gruppo Revisore;962;2;964;1;7;544;8;6055;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1560;Gestisci il gruppo CSPAUser;967;2;968;1;7;544;8;6056;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1564;Gestisci il gruppo Segreteria Ricaricabile;591;2;972;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1565;Gestisci il gruppo Amministratore Cedolino;591;2;973;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1566;Gestisci il gruppo Esercizio;591;2;974;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1567;Gestisci il gruppo Supervisore Ricaricabile;591;2;975;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1568;Gestisci il gruppo Test Funzionali Intranet;977;2;976;1;7;544;8;3;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1569;Gestisci il gruppo Amministratore POM;677;2;671;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1570;Amministrativo;980;2;986;1;7;544;8;6059;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1571;Cassiere Interno;980;2;981;1;7;544;8;6060;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1572;Gestore;980;2;978;1;7;544;8;6061;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1573;Autorizzatore;980;2;985;1;7;544;8;6062;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1574;Contabile;980;2;979;1;7;544;8;6063;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1575;Coordinamento;980;2;988;1;7;544;8;6064;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1576;Gestisci il gruppo FMContabileResponsabileSPO;980;2;987;1;7;544;8;6065;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1578;Configuratore Cassiere Interno;980;2;982;1;7;544;8;6067;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1579;Responsabile Unità;980;2;984;1;7;544;8;6068;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1580;Validatore Configurazione Cassiere Interno;980;2;983;1;7;544;8;6069;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1581;Ministero del lavoro per diffide 2° grado;228;2;991;1;7;591;8;6070;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1582;Gestisci il gruppo QRUtenteServizio;993;2;994;1;7;544;8;6071;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1583;Gestisci il gruppo FederazioneSA_TEST;304;2;990;1;7;544;8;6072;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1584;Gestisci il gruppo Contabile DG Rai;591;2;995;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1586;Gestore;984;2;978;1;543;544;536;6059;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1587;Contabile;984;2;979;1;543;544;536;6059;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+1591;Autorizzatore;984;2;985;1;543;544;536;6059;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+1596;Utente Servizio CSBI;998;2;1000;1;7;544;8;6073;;;;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1597;FED CAF CENSITI;304;2;1001;1;7;544;8;35;;;;0;NULL;NULL;NULL;NULL;NULL
+1598;Gestisci il gruppo UTENTE VIGORSO;569;2;1004;1;7;544;8;5967;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1600;Gestore Configurazione;1005;2;989;1;7;544;8;6059;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1601;Utente per posta in uscita di Struttura Interna;806;2;1006;1;543;544;536;6023;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+1602;Utente per posta in uscita di Struttura Interna;808;2;1006;1;543;544;536;6023;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+1606;Interrogazione Nazionale;980;2;1010;1;7;544;8;6059;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1607;Interrogazione Nazionale;984;2;1010;1;543;544;536;6059;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+1608;Gestisci il gruppo ADCTecniciAppRespInail;1011;2;1011;1;7;544;8;6074;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1609;Gestisci il gruppo ADCUtentiUfficioAcquisti;1011;2;1012;1;7;544;8;6075;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1610;Gestisci il gruppo ADCResponsabileDCRAG;1011;2;1013;1;7;544;8;6076;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1611;Gestisci il gruppo ADCUtentiSegreteria;1011;2;1014;1;7;544;8;6077;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1612;Gestisci il gruppo ADCPersonaleEsterno;1011;2;1015;1;7;544;8;6078;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1613;Gestisci il gruppo ADCUtentiUfficioAcquisti;1013;2;1012;1;7;544;8;6079;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1614;Cassiere Interno;984;2;981;1;543;544;536;6059;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1615;Visualizzatore   Fattura Elettronica;1018;2;1016;1;7;544;8;6080;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1616;Visualizzatore   Fattura Elettronica;984;2;1016;1;543;544;536;6081;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+1617;Gestore Interno Fatture;1018;2;1017;1;7;544;8;6082;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1618;Gestore Interno Fatture;984;2;1017;1;543;544;536;6083;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+1619;Supervisore Fattura Elettronica;1018;2;1019;1;7;544;8;6084;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1621;Utenti Fatturazione Elettronica Con Firma;308;2;1020;1;7;544;8;36;;;;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1622;Gestore Ufficio Generico Fattura;1018;2;1021;1;7;544;8;6080;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1623;Gestore Ufficio Generico Fattura;984;2;1021;1;543;544;536;6080;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1624;Gestore Esterno Fatture;1018;2;1022;1;7;544;8;6080;;;;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1625;Gestore Esterno Fatture;984;2;1022;1;543;544;536;6080;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+1626;Operatore Tecnico Fatture;1018;2;1023;1;7;544;8;6080;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1630;Utente operativo;1026;2;1027;1;7;544;8;6086;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1631;Utenti applicazione;1029;2;1028;1;7;544;8;6092;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1633;Utente operativo;1031;2;1030;1;7;544;8;6088;;;;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1643;Gestisci il gruppo UserCrusISI;1032;2;1033;1;7;544;8;6089;NULL;NULL;codiceRegioneIstat=ConNull;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1644;Visualizzatore   Fattura Elettronica;385;2;1016;1;543;544;536;6080;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+1645;Gestore Interno Fatture;385;2;1017;1;543;544;536;6080;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+1646;Gestore Ufficio Generico Fattura;385;2;1021;1;543;544;536;6080;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+1647;Gestore Esterno Fatture;385;2;1022;1;543;544;536;6080;;;;1;NULL;575;ConsoleIntranet;NULL;NULL
+1648;MasterDTL;1043;2;1044;1;7;544;8;6091;;;;0;NULL;NULL;NULL;NULL;NULL
+1649;Gestisci gli utenti per Rapporti art.17 l.689/81;1044;2;1045;1;7;591;8;6091;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1650;Gestisci il gruppo FEAmministratore;728;2;728;1;7;544;8;6005;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1658;Gestisci il gruppo CittadiniStrong;304;2;927;1;7;544;8;35;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1659;Cittadini con credenziali dispositive;62;2;927;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1660;Gestisci il gruppo Esperto Cassa D.C. RAG.;1066;2;1061;1;7;544;8;6093;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1661;"Gestisci il gruppo Esperto Contabile D.C. RAG.   ";1066;2;1060;1;7;544;8;6093;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1662;"Gestisci il gruppo Esperto Strumentale D.C.R.U. ";1066;2;1062;1;7;544;8;6093;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1663;Gestisci il gruppo Esperto Previdenziale D.C.RAG.;1066;2;1063;1;7;544;8;6093;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1664;Gestisci il gruppo Esperto Tributario D.C. RAG.;1066;2;1064;1;7;544;8;6093;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1665;Gestisci il gruppo Esperto Istituzionale D.C. PRESTAZIONI;1066;2;1065;1;7;544;8;6093;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1666;Gestisci il gruppo PERSONALE ESTERNO/TECNICO;1066;2;1066;1;7;544;8;6093;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1667;Gestisci il gruppo Utente Strumentale di Direzione Regionale;1066;2;1068;1;7;544;8;6093;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1668;Gestisci il gruppo Responsabile DCRU;1066;2;1067;1;7;544;8;6093;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1669;Gestisci il gruppo Utente Strumentale di Direzione Regionale;413;2;1068;1;3;544;4;6093;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+1670;Help Desk;1059;2;1053;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1671;Resp AOO;1059;2;1054;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1672;Responsabile UTP;1059;2;1055;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1673;UTP_;1059;2;1056;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1674;Vicario AOO;1059;2;1057;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1675;Vicario UTP;1059;2;1058;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1676;UTP;1054;2;1056;1;543;544;536;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1677;Responsabile UTP;1054;2;1055;1;543;544;536;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1678;Vicario AOO;1054;2;1057;1;543;544;536;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1679;Vicario UTP;1054;2;1058;1;543;544;536;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1680;Gestisci il gruppo ADMIN;1071;2;1069;1;7;544;8;6104;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1681;Visualizzatore RUF;1018;2;1072;1;7;544;8;6080;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1682;Visualizzatore RUF;984;2;1072;1;543;544;536;6080;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1683;Visualizzatore RUF;385;2;1072;1;543;544;536;6080;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1687;Visualizzatore PCC;984;2;1073;1;543;544;536;6080;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1688;Visualizzatore PCC;1018;2;1073;1;7;544;8;6080;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1689;Visualizzatore PCC;385;2;1073;1;543;544;536;6080;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1690;Gestore PCC;1018;2;1078;1;7;544;8;6080;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1691;Gestore PCC;984;2;1078;1;543;544;536;6080;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1692;Gestore PCC;385;2;1078;1;543;544;536;6080;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1693;Interrogazione Esiti Fatture Attive;1018;2;1079;1;7;544;8;6080;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1694;Interrogazione Esiti Fatture Attive;984;2;1079;1;543;544;536;6080;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1695;Interrogazione Esiti Fatture Attive;385;2;1079;1;543;544;536;6080;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1705;Monitoraggio Flussi Casellario;1090;2;1091;1;7;544;8;6106;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1706;Utente Amministratore;1026;2;1026;1;7;544;8;6086;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1707;Amministratori Flussi Casellario;1090;2;1090;1;7;544;8;6106;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1708;Medico Competente;62;2;931;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1709;Gestisci i responsabili di Società Scientifica Art 40;934;2;1040;1;7;544;8;6048;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1710;Gestisci i responsabili di Società Scientifica Art 40;935;2;1040;1;7;591;8;6048;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1711;Gestisci il gruppo Esperto Previdenza Complementare;1066;2;1092;1;7;544;8;6093;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1712;Gestisci il gruppo Fornitore Personale Esterno;1093;2;1094;1;7;544;8;6108;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1713;Gestisci il gruppo Funzionario Personale Esterno;1093;2;1095;1;7;544;8;6108;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1714;Gestisci il gruppo Responsabile Personale Esterno;1093;2;1096;1;7;544;8;6108;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1716;Art40InailReferente;934;2;934;1;7;544;8;6048;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1717;WizardAmministratore;904;2;904;1;7;544;8;6109;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1718;WizardOperatore;904;2;1098;1;7;544;8;6110;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1719;WizardConsultatore;904;2;1099;1;7;544;8;6110;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1720;Controllo Fatture Attive;1018;2;1100;1;7;544;8;6080;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1721;Controllo Fatture Attive;385;2;1100;1;543;544;8;6080;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1722;Controllo Fatture Attive;984;2;1100;1;7;544;8;6080;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1725;Commissione Agricoltura FIPIT;413;2;1107;1;3;544;4;6112;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1727;Commissione Edilizia FIPIT;413;2;1109;1;3;544;4;6112;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1728;Commissione Lapidei FIPIT;413;2;1110;1;3;544;4;6112;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1730;Presidente commissione Edilizia FIPIT;413;2;1112;1;3;544;4;6112;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1731;Presidente commissione Lapidei FIPIT;413;2;1113;1;3;544;4;6112;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1732;Presidente commissione Agricoltura FIPIT;413;2;1115;1;3;544;4;6112;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1734;Gestisci il gruppo Consulta pubbliche amministrazioni;916;2;1052;1;7;544;8;6047;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1735;Gestisci gli operatori LogOnAs;1117;2;1118;1;592;544;594;6043;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1736;Gestisci il gruppo Referenti;328;2;1117;1;7;544;8;6043;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1737;Gestisci il gruppo Supervisore Segreteria Dinamica;591;2;1119;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1738;Gestisci il gruppo Supervisore Segreteria;591;2;1120;1;7;544;8;5966;NULL;NULL;codiceUnita=soloSedi11000A73000;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1739;Responsabili ufficio locale centri servizio per il volontariato;1123;2;1114;1;3;544;8;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1740;Centri Servizio per il Volontariato;62;2;1123;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1742;Amministrativo;385;2;986;1;543;544;8;6059;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1743;Amministrativo;88;2;986;1;543;544;8;6059;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1744;Amministrativo;984;2;986;1;7;544;8;6059;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1746;Responsabile UTP Prince;1057;2;1055;1;543;544;536;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1747;Utente UTP;1057;2;1056;1;543;544;536;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1748;Vicario UTP Prince;1057;2;1058;1;543;544;536;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1749;Gestisci il gruppo GestoreDiSedePom;1125;2;674;1;3;544;4;6058;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1750;Gestisci il gruppo LettoreDiSedePom;1125;2;676;1;7;544;8;6058;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1751;Gestisci il gruppo VicariDiSedePom;677;2;1125;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1752;Gestisci il gruppo VicariDiSedePom;385;2;1125;1;543;544;8;6058;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+1755;ResponsabilePOM;677;2;677;1;7;544;8;6115;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1756;Gestisci il gruppo GestoreDiSedePom;677;2;674;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1757;Gestisci il gruppo LettoreDiSedePom;677;2;676;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1758;Gestisci il gruppo VicarioRegionalePom;677;2;1126;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1759;Gestisci il gruppo GestoreRegionalePom;677;2;1127;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1760;Gestisci il gruppo LettoreRegionalePom;677;2;1128;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1761;Gestisci il gruppo GestoreRegionalePom;1126;2;1127;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1762;Gestisci il gruppo LettoreRegionalePom;1126;2;1128;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1763;Gestore Regionale Pom;413;2;1127;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1765;Gestisci il gruppo Contabile;728;2;1131;1;7;544;8;6005;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1766;AmministratoreProceduraSABS;632;2;632;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1767;Amministratore di Service Desk;1132;2;1132;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1768;"Esperto Procedure ";1132;2;1133;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1769;Responsabile Procedure;1132;2;1134;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1770;Utente Statico;1132;2;1135;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1771;Gestisci il gruppo Operatore Codici Impresa;141;2;1138;1;7;567;8;13;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1772;Operatore Codici Impresa;143;2;1138;1;3;567;4;13;CodiceANIA;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1776;Armatore;62;2;1140;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1778;Istruttore FIPIT;413;2;1145;1;3;544;4;6112;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1779;Responsabile Processo Prevenzione FIPIT;413;2;1146;1;3;544;4;6112;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1780;Responsabile Attività Istituzionali FIPIT;413;2;1147;1;3;544;4;6112;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1781;"Vicario Regionale Pom ";413;2;1126;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1782;Lettore Regionale Pom;413;2;1128;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1784;"Redattore KB ";1132;2;1151;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1785;Pubblicatore KB;1132;2;1152;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1786;Analista SCR di primo livello;1132;2;1153;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1787;Analista SCR di secondo livello;1132;2;1154;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1789;Gestisci il Gruppo operatori Contact Center;1155;2;1124;1;7;544;8;6119;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1791;Gestisci il gruppo Utente Direzione Regionale;470;2;824;1;543;544;536;5967;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1792;Responsabile Unità;413;2;984;1;7;544;8;6059;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+1793;Responsabile Unità;470;2;984;1;7;544;8;6059;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+1794;Amministratore utenze digitali;1158;2;1159;1;3;567;4;3;NULL;NULL;userNamePadre=attributo_disabilitato|userNamePadre=AttrPrinc;0;NULL;NULL;NULL;NULL;NULL
+1796;Esperto Amministrativo;1132;2;1160;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1797;Esperto Sviluppo MAC;1132;2;1161;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1798;Delegato ai servizi;1158;2;1163;1;3;567;4;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1799;Datore di lavoro;1158;2;1162;1;3;567;4;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1800;Delegato del datore di lavoro;1162;2;1164;1;3;567;4;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1801;Datore di lavoro;1159;2;1162;1;3;567;4;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1803;Delegato ai servizi;1159;2;1163;1;3;567;4;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1804;Amministratore utenze digitali;62;2;1159;1;7;570;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1806;Gestisci il gruppo Dipendenti PA;266;2;1157;1;7;591;8;28;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1808;Gestisci il gruppo Utente;1166;2;1167;1;7;544;8;6121;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1809;Gestisci il gruppo ReferenteEA;1166;2;1168;1;7;544;8;6121;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1810;Gestisci il gruppo EIMTeam;1166;2;1169;1;7;544;8;6121;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1811;Gestisci il gruppo Supervisore;1166;2;1170;1;7;544;8;6121;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1812;Supervisore;1132;2;1171;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1813;Contabile SIPE;1172;2;1173;1;7;544;8;6122;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1814;Contabile SIPE;385;2;1173;1;543;544;4;6122;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+1815;Contabile SIPE;984;2;1173;1;543;544;4;6122;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+1816;Amministrativo SIPE;1172;2;1174;1;7;544;8;6122;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1817;Amministrativo SIPE;385;2;1174;1;543;544;4;6122;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1818;Amministrativo SIPE;984;2;1174;1;543;544;4;6122;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1819;Gestisci il Gruppo Utente utilizzatore delle interfacce di data entry;1176;2;1177;1;7;544;8;6123;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1820;Gestione Amministratori;1178;2;1180;1;7;544;8;6124;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1821;Gestisci il gruppo Responsabile Personale Esterno D.C.O.D.;1093;2;1181;1;7;544;8;6108;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1822;Gestisci il gruppo Supervisore Personale Esterno;1093;2;1097;1;7;544;8;6108;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1823;Gestisci il Gruppo Utente SIA;1183;2;1182;1;7;544;8;6125;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1824;Gestisci il gruppo Utenti;1184;2;1185;1;7;544;8;6126;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1825;Gestione Utenti;1178;2;1179;1;7;544;8;6124;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1826;Ispettori ASL;938;2;1188;1;3;567;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1827;Gestisci il Gruppo Ministero del Lavoro Carabinieri;118;2;1189;1;3;591;4;6127;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1828;Ufficiali Polizia Giudiziaria;938;2;1190;1;3;567;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1829;Utenti dell’applicazione;1191;2;1192;1;7;544;8;6128;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1831;Amministratore dell’applicazione;1196;2;1197;1;7;544;8;6129;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1832;Gestisci il gruppo SUPERVISORE NAZIONALE;1196;2;1198;1;7;544;8;6129;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1833;AdminCruscottoAu;1200;2;1201;1;7;544;8;6130;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1834;Gestisci il gruppo DCPSS;225;2;1202;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1835;Operatori Inail federazione con Inps;413;2;320;1;3;544;4;38;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+1836;Operatori Inail federazione con Inps;470;2;320;1;3;544;4;38;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+1837;Amministatore ARR;1204;2;1204;1;7;544;8;6131;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1838;Utente ARR;1204;2;1205;1;7;544;8;6131;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1839;Amministratore Crediti;1209;2;1209;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1840;Utente Crediti;1209;2;1210;1;7;544;8;6137;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1841;Amministratore;1211;2;1211;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1842;AM - Responsabile del Servizio di prevenzione e protezione;1211;2;1213;1;7;544;8;6132;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1843;Datore Lavoro;1211;2;1212;1;7;544;8;6132;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1844;" 	DL - Responsabile del Servizio di prevenzione e protezione";1212;2;1213;1;7;544;8;6132;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1846;Raccomandatari marittimi;62;2;1139;1;7;544;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1847;Comandanti del Settore Navigazione;1158;2;1215;1;3;567;4;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1848;Comandanti del Settore Navigazione;1159;2;1215;1;3;567;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1849;Amministratore Profilazione COA;1217;2;1217;1;7;544;8;6136;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1850;Redattore COA;1217;2;1218;1;7;544;8;6136;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1851;Redattore BOW;1219;2;1220;1;7;544;8;6134;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1852;Utente BOW;1219;2;1221;1;7;544;8;6134;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1853;Bibliotecario BOW;1219;2;1222;1;7;544;8;6134;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1854;Amministratore Profilazione BOW;1219;2;1219;1;7;544;8;6134;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1855;Amministratore dei gruppi;1225;2;1225;1;7;544;8;6135;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1856;Validatore di Commissione;1225;2;1226;1;7;544;8;6135;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1857;Operatore di Commissione;1225;2;1227;1;7;544;8;6135;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1858;Validatore di Sotto Commissione;1225;2;1228;1;7;544;8;6135;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1859;Operatore di Sotto Commissione;1225;2;1229;1;7;544;8;6135;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1860;Gestisci il gruppo Supervisore;1025;2;1024;1;7;544;8;-1;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1861;Gestisci il gruppo Assistente Sociale DR;385;2;1230;1;3;544;4;-1;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+1862;Gestisci il gruppo Commissione BSA Statica;591;2;1231;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1863;Esperto Sviluppo;1132;2;1233;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1864;Change Manager;1132;2;1234;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1865;Incident Manager;1132;2;1235;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1866;Demand Manager;1132;2;1236;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1867;Responsabile Infrastrutturale;1132;2;1237;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1868;Gestione Problema;1132;2;1232;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1869;Gestisci il gruppo Firma Digitale User;1238;2;1239;1;7;544;8;6138;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1870;Gestisci il Gruppo Operatore CSA Prestazioni;1241;2;1240;1;7;544;8;6139;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1871;Amministratore SmartST;1246;2;1246;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1872;Utente generico SmartST;1246;2;1247;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1873;Utente Produzione SmartST;1246;2;1249;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1874;Utente PM SmartST;1246;2;1250;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1875;Utente Architetto SmartST;1246;2;1251;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1876;Utente PM Monitoraggio;1246;2;1252;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1877;Utente PM certificazione;1246;2;1253;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1878;Utente DBA;1246;2;1254;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1881;Utente Sviluppo SmartST;1250;2;1248;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1882;Aziende (Gra) in qualità di Direttore di sede;385;2;1256;1;543;544;536;6141;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+1883;Lavoratori (Grai) in qualità di Direttore di sede;385;2;1257;1;543;544;536;6141;NULL;NULL;NULL;0;NULL;575;ConsoleIntranet;NULL;NULL
+1884;Aziende (Gra);413;2;1256;1;543;544;536;6141;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1885;Lavoratori (Grai);413;2;1257;1;543;544;536;6141;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1887;Gestisci il Gruppo Gestore di Postalizzazione Territoriale;677;2;1259;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1888;Gestisci il Gruppo Gestore di Postalizzazione Territoriale;385;2;1259;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1889;Gestisci il Gruppo Gestore di Postalizzazione Territoriale;1125;2;1259;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1890;Collaboratore AOO;1054;2;1187;1;543;544;4;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1891;Collaboratore AOO;1057;2;1187;1;543;544;4;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1892;Collaboratore AOO;1059;2;1187;1;7;544;8;6244;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1893;Consulente SI;1054;2;1186;1;543;544;4;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1894;Consulente SI;1057;2;1186;1;543;544;4;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1895;Consulente SI;1059;2;1186;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1896;Resp SI;1059;2;1081;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1897;Utente SI;1059;2;1082;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1898;Vicario SI;1059;2;1080;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1899;Resp SI;1054;2;1081;1;543;544;4;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1900;Utente SI;1054;2;1082;1;543;544;4;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1901;Vicario SI;1054;2;1080;1;543;544;4;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1902;Resp SI;1057;2;1081;1;543;544;4;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1903;Utente SI;1057;2;1082;1;543;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1904;Vicario SI;1057;2;1080;1;543;544;4;6244;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1905;Amministratore COR;1261;2;1262;1;3;567;4;6142;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1906;Utente consultatore;1261;2;1264;1;3;567;4;6142;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1907;Utente di lavoro;1261;2;1263;1;3;567;4;6142;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1909;Amministratori;1265;2;1266;1;7;544;8;6143;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1910;Editori;1265;2;1267;1;7;544;8;6143;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1911;Consultatori;1265;2;1268;1;7;544;8;6143;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1912;UtenteBase_CIV;1273;2;1271;1;7;544;8;6144;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1913;UtenteAvanzato_CIV;1273;2;1272;1;7;544;8;6144;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1914;Amministra admin;1276;2;1274;1;7;544;8;6145;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1915;Amministra analist;1276;2;1275;1;7;544;8;6145;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1916;Codificatore;887;2;888;1;7;523;8;6033;NULL;207;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1917;Controllore;887;2;1165;1;7;523;8;6033;NULL;207;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1919;Controllore;413;2;1165;1;7;523;8;6033;NULL;207;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1920;Controllore;470;2;1165;1;7;523;8;6033;NULL;207;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1921;Codificatore;385;2;888;1;543;523;8;6033;NULL;207;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1922;Codificatore;88;2;888;1;543;523;8;6033;NULL;207;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1923;Codificatore;413;2;888;1;7;523;8;6033;NULL;207;ParRuoloAmmAttr=admin;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1924;Codificatore;470;2;888;1;7;523;8;6033;NULL;207;ParRuoloAmmAttr=admin;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1932;Gestisci il gruppo degli Ufficiali Roganti;1284;2;1280;1;7;544;8;6147;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1933;Gestisci il gruppo Dirigenti;1284;2;1281;1;7;544;8;6147;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1934;Gestisci il gruppo consultatori;1284;2;1283;1;7;544;8;6147;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1935;Gestisci il gruppo utenti;1284;2;1282;1;7;544;8;6147;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1936;Gestisci il gruppo Amministratore;1284;2;1284;1;7;544;8;6147;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1937;Gestisci il gruppo utenti;1281;2;1282;1;3;544;4;6147;NULL;NULL;NULL;1;NULL;575;ConsoleIntranet;NULL;NULL
+1940;Amministra Consultatore Cruscotto Multidimensionale;1276;2;1277;1;7;544;8;6145;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1941;Gestisci il gruppo ADMIN;1286;2;1286;1;7;544;8;6149;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1942;Gestisci il gruppo Biologo ASL;1286;2;1287;1;7;567;8;6149;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1943;Gestisci il gruppo Biologo Arpa;1286;2;1288;1;7;567;8;6149;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1944;Gestisci il gruppo Biologo Università;1286;2;1289;1;7;567;8;6149;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1945;Gestisci il gruppo Biologo INAIL;1286;2;1290;1;7;544;8;6149;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1946;Gestisci il gruppo Visualizzatore;1286;2;1291;1;7;544;8;6149;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1947;Gestione Amministratore Console CAT;1292;2;1293;1;7;544;8;6151;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1948;Gestione Certificatore dati Console CAT;1292;2;1294;1;7;544;8;6151;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1949;Gestione Configuratore Console CAT;1292;2;1295;1;7;544;8;6151;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1950;Gestione Validatore dati Console CAT;1292;2;1296;1;7;544;8;6151;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1951;Gestione Pubblicatore dati Console CAT;1292;2;1297;1;7;544;8;6151;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1952;CrusSan _ADMINBI;1298;2;1298;1;7;544;8;6152;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1953;CrusSan _ADMIN;1299;2;1299;1;7;544;8;6152;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1954;Gestisci il gruppo Centro Servizi Delocalizzato Statica;591;2;1301;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1955;Socio STP Consulenti del lavoro;1302;2;1303;1;3;567;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1956;Ausiliario STP Consulenti del lavoro;1302;2;1304;1;3;567;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1957;Amministratore;1305;2;1305;1;7;544;8;6153;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1958;Utente;1305;2;1306;1;7;544;8;6153;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1960;STP Consulenti del lavoro;62;2;1302;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1961;Gestisci il gruppo Medico;1307;2;1308;1;7;544;8;6154;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1962;Il paziente esegue la terapia assegnata dal medico;1307;2;1309;1;7;544;8;6154;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1963;Gestisci il gruppo CONTARPSuperAdmin;1311;2;1311;1;7;544;8;6155;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1964;Gestisci il gruppo CONTARPConsultatore;1311;2;1312;1;7;544;8;6155;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1965;Gestisci il gruppo CONTARPPubblicatore;1311;2;1313;1;7;544;8;6155;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1967;Referente delle Procedure;1630;2;69;1;7;544;8;6157;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1969;Amministratore DURC;1630;2;74;1;7;544;8;6159;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1972;Amministratori ISIAVV;1630;2;424;1;7;544;8;6162;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1973;Admin Cartella Clinica;1630;2;478;1;7;544;8;6163;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1974;Analista PDL di I Livello;1132;2;1315;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1975;Funzionario Informatico INAIL;1132;2;1316;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1976;Approvatore PDL;1132;2;1317;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1977;Analista PDL di II Livello;1132;2;1318;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1978;Gestore Struttura POM;1323;2;1321;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1979;Lettore Struttura POM;1323;2;1320;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1980;Vicario Struttura POM;1323;2;1322;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1981;Lettore Struttura POM;677;2;1320;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1983;Lettore Struttura POM;1322;2;1320;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1984;Gestore Struttura POM;677;2;1321;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1985;Gestore Struttura POM;1322;2;1321;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1986;Vicario Struttura POM;677;2;1322;1;7;544;8;6058;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1987;Incaricato allo Stress Lavoro Correlato;1162;2;1324;1;3;567;4;6164;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+1988;Utente SSLP;1325;2;1326;1;7;544;8;6165;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1993;Vicario del Direttore Centrale;233;2;1310;1;3;NULL;4;6166;NULL;NULL;NULL;0;NULL;575;;NULL;NULL
+1995;Amministratore;1329;2;1329;1;7;544;8;6167;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1996;Utente;1329;2;1330;1;7;576;8;6167;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+1997;Gestisci il gruppo Segreteria Coi Statica;591;2;1331;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1998;Utente PM SmartST;1332;2;1250;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+1999;Utente Produzione SmartST;1333;2;1249;1;7;544;8;6140;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2000;Gestisci il gruppo ADMIN;1334;2;1335;1;7;544;8;6168;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2001;Utente DBA;1336;2;1254;1;7;544;8;6140;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2002;Utente generico SmartST;1338;2;1247;1;7;544;8;6140;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2003;Gestisci il gruppo Responsabile COR;1260;2;1261;1;7;567;8;6142;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2004;Admin utenze pm smartST;1246;2;1332;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2005;Gestisce gli operatori di sede;1340;2;1341;1;7;544;8;6169;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2006;Gestisce i referenti regionali;1340;2;1343;1;7;567;8;6169;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2008;Delega gli operatori ASL;1345;2;1342;1;578;567;8;6169;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2010;Delega i referenti ASL;1343;2;1345;1;561;567;8;6169;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2011;Delega i referenti ASL;1344;2;1345;1;561;567;8;6169;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2014;Gestisce gli operatori di Regione;1343;2;1344;1;3;567;4;6169;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2016;Gestisci il gruppo Amministratore BI dell’applicazione;1334;2;1334;1;7;544;8;6168;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2017;Admin utenze generiche SmartST;1246;2;1338;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2018;Admin utenze Prod smartST;1246;2;1333;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2019;Admin utenze Dba smartST;1246;2;1336;1;7;544;8;6140;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2020;Gestisci il Gruppo Amministratore dell’applicativo;1348;2;1348;1;7;544;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2021;Gestisci il Gruppo Addetto all’analisi Arpa;1348;2;1349;1;7;567;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2022;Gestisci il Gruppo Addetto all’analisi ASL;1348;2;1350;1;7;567;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2023;Gestisci il Gruppo Addetto all’analisi Contarp;1348;2;1351;1;7;544;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2024;Gestisci il Gruppo Addetto all’analisi Università;1348;2;1352;1;7;567;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2025;Gestisci il Gruppo Addetto al campionamento Arpa;1348;2;1353;1;7;567;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2026;Gestisci il Gruppo Addetto al campionamento Asl;1348;2;1354;1;7;567;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2027;Gestisci il Gruppo Addetto al campionamento Contarp;1348;2;1355;1;7;544;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2028;Gestisci il Gruppo Addetto al campionamento Università;1348;2;1356;1;7;567;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2029;Gestisci il Gruppo Funzionario amministrativo Arpa;1348;2;1357;1;7;567;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2030;Gestisci il Gruppo Funzionario amministrativo ASL;1348;2;1358;1;7;567;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2031;Gestisci il Gruppo Funzionario amministrativo Contarp;1348;2;1359;1;7;544;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2032;Gestisci il Gruppo Funzionario amministrativo Università;1348;2;1360;1;7;567;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2035;RESPONSABILE ICT;1132;2;1362;1;7;544;8;6117;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2036;Amministratore;1363;2;1363;1;7;544;8;6173;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2037;Certificatore;1363;2;1364;1;7;544;8;6173;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2038;Operatore di processo;1363;2;1365;1;7;544;8;6173;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2039;Validatore;1363;2;1366;1;7;544;8;6173;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2040;Gestisci il Gruppo Utenti Regioni;1367;2;1368;1;7;567;8;6174;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2041;Gestisci il Gruppo Utenti SubRegionali;1367;2;1369;1;7;567;8;6174;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2042;Gestisci il gruppo Utenti Asl;1370;2;1371;1;7;567;8;6175;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2043;Gestisci il gruppo Utenti Regioni;1370;2;1372;1;7;567;8;6175;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2044;Gestisci il gruppo Utenti Zona As;1370;2;1373;1;7;567;8;6175;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2045;Gestisci il gruppo Amministratore;1374;2;1375;1;7;544;8;6176;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2046;Gestisci il gruppo Operatore;1374;2;1376;1;7;544;8;6176;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2047;CapoRedattoreFAQ;1377;2;1378;1;7;544;8;6177;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2048;RedattoreFAQ;1377;2;1379;1;7;544;8;6177;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2049;Gestisci il gruppo ADMIN;1380;2;1380;1;7;544;8;6178;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2050;Gestisci il gruppo DIREZIONE CENTRALE;1380;2;1381;1;7;544;8;6178;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2053;Comitato scientifico che valida il piano formativo;1386;2;1389;1;7;544;8;6179;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2054;Operatore di una struttura centrale;810;2;1390;1;543;544;536;6179;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2055;"Operatore di una struttura regionale ";413;2;1391;1;543;544;536;6179;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2056;Responsabile della contabilità del Provider;1387;2;1392;1;7;544;8;6179;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2057;Responsabile della qualità del Provider;1387;2;1393;1;7;544;8;6179;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2058;Responsabile della segreteria del Provider;1387;2;1394;1;7;544;8;6179;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2059;Gestisci il gruppo Visualizzatore;1395;2;1397;1;7;544;8;6180;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2060;Gestisci il gruppo Admin;1395;2;1395;1;7;544;8;6181;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2061;Gestisci il gruppo Supervisore Sirio;591;2;1398;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2062;Amministratore Profilazione ASA;1399;2;1399;1;7;544;8;6182;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2063;Operatore province autonome;1399;2;1400;1;7;544;8;6182;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2064;Operatore soggetti abilitati;1399;2;1401;1;7;544;8;6182;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2065;Validatore province autonome;1399;2;1402;1;7;544;8;6182;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2066;Validatore soggetti abilitati;1399;2;1403;1;7;544;8;6182;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2072;Operatore di processo;1407;2;1412;1;7;544;8;6183;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2077;ContarpPareriMP_Amministratore;1416;2;1416;1;7;544;8;6184;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2078;ContarpPareriMP_Centrale;1416;2;1417;1;7;544;8;6184;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2079;ContarpPareriMP_Professionista;1416;2;1418;1;7;544;8;6184;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2080;ContarpPareriMP_Regionale;1416;2;1419;1;7;544;8;6184;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2081;Amministrativi Vigilanza Direzioni Regionali/Provinciali;413;2;1420;1;543;544;536;5983;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2082;Amministrativi Vigilanza Direzioni Regionali/Provinciali;470;2;1420;1;543;544;536;5983;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2083;HolApprovatori;1422;2;1423;1;7;544;8;6185;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2084;HolPubblicatori;1422;2;1424;1;7;544;8;6185;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2085;HolPubblicatoriGlossario;1422;2;1425;1;7;544;8;6185;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2086;HolRedattori;1422;2;1426;1;7;544;8;6185;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2087;HOL Amministratori;1422;2;1422;1;7;544;8;6185;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2088;UtentiPreProduzione Interni;1427;2;1421;1;7;544;8;6186;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2091;UtentiPreProduzione Esterni;1427;2;1429;1;7;567;8;6186;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2092;Data Scientist di Biblio Expert;1430;2;1431;1;7;544;8;6187;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2093;Ricercatori di Biblio Expert;1430;2;1432;1;7;544;8;6187;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2094;Amministratore Biblio Expert;1430;2;1430;1;7;544;8;6187;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2095;Gestisci il gruppo Master di Struttura Sede;385;2;602;1;543;544;536;6188;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2096;Gestisci il Gruppo Master di Struttura 760;385;2;610;1;543;544;536;6189;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2097;Amministrativi Vigilanza Direzioni Regionali/Provinciali;491;2;1420;1;7;544;8;5910;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2100;Operatore con utenza interna INAIL;1340;2;1437;1;7;544;8;6169;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2102;E’ il gruppo di tutti i consultatori per sede;1284;2;1438;1;7;544;8;6147;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2103;Gestisci il gruppo consultatori per sede;1281;2;1438;1;7;544;4;6147;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2104;Gestisci gli Inseritori;1439;2;1327;1;7;544;8;6166;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2105;Utente Comunicazione Plus;788;2;1214;1;7;544;8;5906;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2106;Utenti abilitati a VCAW;413;2;1441;1;3;544;4;6190;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2107;Utenti abilitati a VCAW;385;2;1441;1;3;544;4;6190;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2108;Utenti abilitati a VCAW;1440;2;1441;1;7;544;8;6190;NULL;NULL;codiceUnita=soloSedi11000A73000;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2109;Gestisci gli Inseritori;1442;2;1327;1;3;544;4;6166;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2110;Gestisci gli Inseritori;1443;2;1327;1;3;544;4;6166;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2111;Gruppo di Vicari/validatori per le DC;1442;2;1443;1;3;544;4;6166;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2112;Gestisci il gruppo PBCInseritori;1444;2;1327;1;3;544;4;6166;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2113;Gestisci gli Inseritori;1445;2;1327;1;3;544;4;6166;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2114;Gruppo di Vicari/validatori per le DR;1445;2;1444;1;3;544;4;6166;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2115;Utenti dell’applicazione con profilo generale;1447;2;1446;1;7;544;8;6191;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2116;Gestisci il Gruppo Amministraore utenti;1449;2;1449;1;7;544;8;6192;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2117;Gestisci il Gruppo Amministraore;1449;2;1450;1;7;544;8;6192;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2118;Gestisci il Gruppo Utente;1449;2;1451;1;7;544;8;6192;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2119;Operatore admin interno INAIL;1340;2;1452;1;7;544;8;6169;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2120;Utente Suite;1453;2;1454;1;7;544;8;6193;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2121;Amministratore Suite;1453;2;1453;1;7;544;8;6193;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2122;Gestisci il gruppo Amministratore;1455;2;1455;1;7;544;8;6194;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2123;Gestisci il gruppo degli utenti;1455;2;1456;1;7;544;8;6194;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2124;Gestione Capo Redattori NL;1457;2;1458;1;7;544;8;6195;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2125;Gestione Docmult NL;1457;2;1459;1;7;544;8;6195;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2126;Gestione Editoria NL;1457;2;1460;1;7;544;8;6195;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2127;Gestione Redattore NL;1457;2;1461;1;7;544;8;6195;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2128;Gestisci il gruppo ADMIN;1462;2;1462;1;7;544;8;6196;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2130;Gestisci il gruppo Utente di tipo amministrativo su DCRA;88;2;1464;1;543;544;536;5903;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2131;Gestisci il Gruppo Utente di tipo amministrativo su DCRA;385;2;1464;1;543;544;536;5903;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2132;Gestisci il Gruppo Utente di tipo amministrativo su DCRA;1630;2;1464;1;7;544;8;5903;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2133;Gestisci il Gruppo Utente di tipo amministrativo su DCRA;471;2;1464;1;7;544;8;5903;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2134;Gestisci il gruppo Utenti;1462;2;1463;1;7;544;8;6196;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2135;Gestione LavoroInSicurezza_NL;1457;2;1465;1;7;544;8;6195;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2136;QDL_ AdminUtenze;1466;2;1466;1;7;544;8;6197;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2137;QDL Analista;1466;2;1467;1;7;544;8;6197;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2140;QDL Visualizzatore Statico;1466;2;1469;1;7;544;8;6197;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2141;Consultatore Determine;1476;2;1472;1;7;544;8;6198;NULL;NULL;CodiceUnita=soloSediNonTerritoriali;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2142;Inseritore Determine;1476;2;1474;1;7;544;8;6198;NULL;NULL;CodiceUnita=soloSediNonTerritoriali;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2143;Gestore Determine;1476;2;1473;1;7;544;8;6198;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2144;Amministratore Determine;1476;2;1476;1;7;544;8;6198;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2145;Responsabile Ufficio;1476;2;1475;1;7;544;8;6198;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2146;Direttori Amministrativi;1476;2;1471;1;7;544;8;6198;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2147;Redattore Determine;1471;2;1474;1;543;544;4;6198;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2148;Consultatore Determine;1471;2;1472;1;543;544;4;6198;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2149;Consultatore Determine;1475;2;1472;1;7;544;8;6198;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2150;Redattore Determine;1475;2;1474;1;7;544;8;6198;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2151;Gestisci il gruppo utenti;1477;2;1478;1;7;544;8;6199;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2152;Gestisci il gruppo Amministratore;1477;2;1477;1;7;544;8;6199;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2153;E’ il gruppo degli amministratori;1479;2;1479;1;7;544;8;6200;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2154;E’ il gruppo degli utenti;1479;2;1480;1;7;544;8;6200;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2155;ISI 2 RESPONSABILE  PREVENZIONE REGIONALE;1481;2;742;1;7;544;8;6012;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2156;Gestisci il gruppo Admin Query Frequenti;1166;2;1482;1;7;544;8;6121;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2157;QDL Visualizzatore Dinamico;1166;2;1468;1;7;544;8;6121;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2158;Ispettori INL;385;2;1483;1;543;544;536;6201;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2159;Ispettori INL;88;2;1483;1;543;544;536;6201;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2160;E’ il gruppo degli amministratori del sistema;1485;2;1485;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2161;E’ il gruppo dei certificatori;1485;2;1486;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2162;E’ il gruppo dei responsabili dei capo progetto Fornitori;1485;2;1487;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2163;E' il gruppo DEC;1485;2;1488;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2164;E' il gruppo Demand Manager;1485;2;1489;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2165;E’ il gruppo dei dirigenti di Sviluppo;1485;2;1490;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2166;E’ il gruppo del Dirigente;1485;2;1491;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2167;E’ il gruppo dei Funzionari;1485;2;1492;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2168;E’ il gruppo dei Monitori;1485;2;1493;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2169;E’ il gruppo di operatori;1485;2;1494;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2170;E’ il gruppo dei responsabili dei contratti Fornitori;1485;2;1495;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2171;E’ il gruppo dei responsabili dei contratti Inail;1485;2;1496;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2172;Capo Intervento Inail;1485;2;1497;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2173;Gestisci il gruppo Amministratore;1498;2;1498;1;7;544;8;6203;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2174;Gestisci il gruppo responsabili;1498;2;1499;1;7;544;8;6203;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2175;Gestisci il gruppo utenti;1499;2;1500;1;3;544;4;6203;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2176;Gestisci il gruppo utenti;1498;2;1500;1;7;544;8;6203;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2177;Utenti Registro Imprese Vari;1501;2;792;1;7;544;8;6021;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2178;Utenti Registro Imprese Vari;1502;2;792;1;7;544;8;6021;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2179;Utenti Registro Imprese Vari;1503;2;792;1;7;544;8;6021;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2180;QDL Visualizzatore Dinamico;1466;2;1468;1;7;544;8;6197;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2181;Gestisci il gruppo Approvatori Ruolo C;1476;2;1505;1;7;544;8;6198;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2182;Amministratore  ASA;1506;2;1506;1;7;544;8;6204;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2183;Operatore ASA – Province Autonome;1506;2;1507;1;7;544;8;6204;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2184;Operatore soggetti abilitati - direzione centrale;1506;2;1508;1;7;544;8;6204;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2185;Operatore soggetti abilitati;1506;2;1509;1;7;544;8;6204;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2186;Validatore soggetti abilitati - direzione centrale;1506;2;1510;1;7;544;8;6204;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2187;Validatore soggetti abilitati;1506;2;1511;1;7;544;8;6204;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2188;Amministratore della console di profilazione;1512;2;1512;1;7;544;8;6205;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2189;Utente amministratore di Oracle BI;1512;2;1513;1;7;544;8;6205;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2190;Utente Inail per estrazioni dati;1512;2;1514;1;7;544;8;6205;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2191;Utente Inail per report statistici;1512;2;1515;1;7;544;8;6205;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2192;Utente Inail per report;1512;2;1516;1;7;544;8;6205;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2193;Operatore_CTR;497;2;498;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2194;Operatore_DRRegionale;497;2;500;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2195;Operatore_RU;497;2;501;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2196;Validatore Amministrativo DR Regionale;497;2;502;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2197;Validatore Contabile DR Regionale;497;2;507;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2198;Validatore_CTR;497;2;509;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2199;Validatore_RU;497;2;511;1;7;544;8;5959;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2200;CIV;1512;2;442;1;7;544;8;6205;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2201;Gestione Amministratori;1517;2;1517;1;7;544;8;6206;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2202;Gestione Utenti;1517;2;1518;1;7;544;8;6206;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2203;Gestisci il gruppo Gestione Sale Statica;591;2;1519;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2204;Gestisci il gruppo Segreteria Sale Statica;591;2;1520;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2205;Gruppo di Direttori Reg/validatori per le DR;1521;2;1445;1;7;544;8;6166;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2206;Gruppo di Direttori Centrali/validatori per le DC;1521;2;1442;1;7;544;8;6166;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2207;Inseritori PBC;1521;2;1327;1;7;544;8;6166;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2208;Gruppo di Vicari/validatori per le DC;1521;2;1443;1;7;544;8;6166;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2209;Gruppo di Vicari/validatori per le DR;1521;2;1444;1;7;544;8;6166;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2210;Amministratore di sistema;1521;2;1439;1;7;544;8;6166;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2211;Gestisci il gruppo degli utenti DCPBC;1525;2;1527;1;7;544;8;6207;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2212;Gestisci il gruppo degli inseritori;1525;2;1526;1;7;544;8;6207;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2213;Gestisci il gruppo Amministratori;1525;2;1525;1;7;544;8;6207;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2214;Gestisci il gruppo Admin Casellario;1528;2;141;1;7;NULL;8;-1;NULL;NULL;NULL;0;0;NULL;NULL;NULL;NULL
+2215;Gestisci il gruppo AdminUtenze;1530;2;1530;1;7;544;8;6208;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2216;Gestisci il gruppo Analista;1530;2;1531;1;7;544;8;6208;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2217;Gestisci il gruppo Visualizzatore;1530;2;1532;1;7;544;8;6208;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2218;Amministratore della console di profilazione;1533;2;1533;1;7;544;8;6209;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2220;Utente del dedicato alla gestione delle convenzioni;1533;2;1535;1;7;544;8;6209;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2221;Utente del dedicato alla gestione dei flussi;1533;2;1536;1;7;544;8;6209;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2222;Utenti amministrativi Organismo Notificato;1537;2;1538;1;7;544;8;6210;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2223;Comitato di delibera Organismo Notificato;1537;2;1539;1;7;544;8;6210;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2224;Comitato di revisione Org. Notificato;1537;2;1540;1;7;544;8;6210;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2225;Tecnici Organismo Notificato;1537;2;1541;1;7;544;8;6210;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2226;Utenti Banca dati molecolare;1542;2;1543;1;7;544;8;6211;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2227;Visualizzazione dipendenti in consultazione;1533;2;207;1;7;544;8;6209;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2228;Admin profilazione del WorkFlow;1545;2;1545;1;7;544;8;6212;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2229;Capo Redattore Centrale – DCPC;1545;2;1546;1;7;544;8;6212;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2230;Redattore Portale;1545;2;1547;1;7;544;8;6212;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2231;Redattore Delocato;1545;2;1548;1;7;544;8;6212;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2232;Responsabile Centro Unico;1551;2;1554;1;7;544;8;6213;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2233;Responsabile FOIA di sede;1551;2;1555;1;7;544;8;6213;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2234;Responsabile Ufficio Trasparenza;1551;2;1552;1;7;544;8;6213;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2235;Operatore Centro Unico;1554;2;1553;1;7;544;8;6213;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2236;Operatore FOIA di Sede;1555;2;1550;1;3;544;4;6213;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2237;AmministrativoCIVA;1557;2;1524;1;7;544;8;6214;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2238;AmministrativoCIVA;1559;2;1524;1;3;544;4;6214;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2239;AmministrativoCIVA;1558;2;1524;1;3;544;4;6214;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2242;DelegatoCIVA;1557;2;1558;1;7;544;8;6214;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2243;DirettoreUOTCIVA;1557;2;1559;1;7;544;8;6214;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2244;SupervisoreNazionaleCIVA;1557;2;1560;1;7;544;8;6214;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2245;SupervisoreRegionaleCIVA;1557;2;1561;1;7;544;8;6214;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2246;TecnicoCIVA;1557;2;1562;1;7;544;8;6214;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2247;TecnicoCIVA;1558;2;1562;1;7;544;8;6214;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2248;DelegatoCIVA;1559;2;1558;1;3;544;4;6214;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2249;TecnicoCIVA;1559;2;1562;1;3;544;4;6214;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2251;Amministratore Utenze Digitali di somministrazione lavoro;62;2;1564;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2252;Amministratore utenze digitali;1563;2;1564;1;3;567;4;-1;NULL;NULL;userNamePadre=attributo_disabilitato|userNamePadre=AttrPrinc;0;NULL;NULL;NULL;NULL;NULL
+2253;Commerciale;1567;2;1566;1;3;567;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2254;Agente;1567;2;1565;1;3;567;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2255;Funzionario;1563;2;1567;1;581;567;582;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2256;Funzionario;1564;2;1567;1;581;567;582;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2258;Commerciale;1564;2;1566;1;581;567;582;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2260;Commerciale;1563;2;1566;1;581;567;582;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2261;Agente;1564;2;1565;1;581;567;582;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2262;Agente;1563;2;1565;1;581;567;582;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2265;AdminGE;1568;2;1568;1;7;NULL;8;6216;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2267;Ausiliario STP Commercialisti ed esperti contabili;1571;2;1569;1;3;567;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2268;Legale rappresentante;62;2;1563;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2269;Agente di ditta interinale;62;2;1565;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2270;Commerciale di somministrazione lavoro;62;2;1566;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2271;Funzionario di somministrazione lavoro;62;2;1567;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2273;Consulente per le attrezzature e impianti - CIVA;1158;2;1572;1;3;567;4;6217;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2274;Datore di lavoro;1563;2;1162;1;73;567;74;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2275;Amministratore Banca Dati molecolare;1542;2;1542;1;7;544;8;6211;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;NULL
+2276;AmministratoreCIVA;1557;2;1556;1;7;544;8;6214;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2277;Gestisci gruppo Utente Direzione Centrale Prestazioni Socio Sanitarie;1193;2;1576;1;7;544;8;6128;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2279;Direzione di Sede;385;2;1578;1;543;544;536;6128;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2280;Gestisci gruppo Utente Regionale PIR;413;2;1579;1;3;544;4;6128;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2281;Gestisci gruppo Utente Sede PIR;385;2;1580;1;3;544;4;6128;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2282;Socio STP Commercialisti ed esperti contabili - Abilita Avvocato;1571;2;1581;1;3;567;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2283;Socio STP Commercialisti ed esperti contabili - Abilita Commercialista;1571;2;1582;1;3;567;4;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2284;Socio STP Commercialisti ed esperti contabili - Abilita Consulente del lavoro;1571;2;1583;1;7;586;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2285;Consulente per le attrezzature e impianti - CIVA;1159;2;1572;1;3;567;4;6217;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;NULL
+2286;Amministratori;1590;2;1590;1;7;544;8;6218;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2287;Ragioneria Inail(DCPBC)abilitata al consolidamento;1590;2;1588;1;7;544;8;6218;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2288;Ragioneria (DCPBC) abilitati alla consultazione;1590;2;1589;1;7;544;8;6218;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2289;Ragioneria (DCPBC) abilitati alla consultazione;1588;2;1589;1;3;544;4;6218;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2290;RESPONSABILE REGIONALE;1591;2;1593;1;7;544;8;6219;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2291;SUPPORTO;1591;2;1594;1;7;544;8;6219;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2292;SEGRETARIO;1596;2;1595;1;3;544;4;6219;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2293;PROTOCOLLATORE;1596;2;1592;1;3;544;4;6219;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2294;VALIDATORE;1593;2;1596;1;3;544;4;6219;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2295;Coordinatore Contarp;1348;2;1597;1;7;NULL;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;NULL
+2296;Amministratore di Prodotto;1485;2;1598;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;NULL
+2297;Amministrazione delle Convenzioni delle Sedi;385;2;1533;1;7;544;8;6209;NULL;NULL;NULL;0;0;NULL;NULL;NULL;2019-06-25 15:47:01.783
+2298;Amministrazione delle Convenzioni delle Sedi;413;2;1533;1;7;544;8;6209;NULL;NULL;NULL;0;0;NULL;NULL;NULL;2019-06-25 15:47:01.860
+2299;Amministrazione delle Convenzioni delle Sedi;470;2;1533;1;7;544;8;6209;NULL;NULL;NULL;0;0;NULL;NULL;NULL;2019-06-25 15:47:01.940
+2300;Amministrazione delle Convenzioni delle Sedi;88;2;1533;1;7;544;8;6209;NULL;NULL;NULL;0;0;NULL;NULL;NULL;2019-06-25 15:47:02.000
+2301;Amministrazione delle Convenzioni delle Sedi;233;2;1533;1;7;544;8;6209;NULL;NULL;NULL;0;0;NULL;NULL;NULL;2019-06-25 15:47:02.063
+2302;Amministrazione delle Convenzioni delle Sedi;1310;2;1533;1;7;544;8;6209;NULL;NULL;NULL;0;0;NULL;NULL;NULL;2019-06-25 15:47:02.127
+2303;DCPBC;1476;2;1599;1;7;544;8;6198;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-06-28 12:09:12.577
+2304;Utenti abilitati alla redazione template Determine;1476;2;1600;1;7;544;8;6198;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-06-28 12:10:05.410
+2305;utenti abilitati alle validazioni Determine;1476;2;1601;1;7;544;8;6198;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-06-28 12:11:50.493
+2306;Sindaci;1476;2;1602;1;7;544;8;6198;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-06-28 12:14:37.190
+2307;Gestisci Professionista;1608;2;1614;1;3;544;4;6220;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2019-07-03 16:11:18.287
+2309;Gestisci medici;1608;2;1612;1;3;544;4;6220;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2019-07-03 16:11:42.690
+2310;Gestisci infermieri;1608;2;1611;1;3;544;4;6220;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2019-07-03 16:12:00.910
+2311;Componenti di default equipe multidisciplinare;1608;2;1610;1;3;544;4;6220;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2019-07-03 16:16:22.433
+2312;Gestisci Assistente sociale;1608;2;1606;1;3;544;4;6220;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2019-07-04 15:20:01.270
+2313;Gestisci Amministrativo;1608;2;1574;1;3;544;4;6220;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2019-07-04 15:20:01.660
+2314;Gestisci Equipe;1608;2;1609;1;3;544;4;6220;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2019-07-04 15:20:01.737
+2316;Gestisci Direzione sede;1607;2;1608;1;508;544;8;6220;NULL;NULL;codiceUnita=SoloSediDiRegione;1;NULL;NULL;NULL;NULL;2019-07-04 15:20:29.227
+2318;Direzione regione equipe multidisciplinare;1605;2;1607;1;525;544;8;6220;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2019-07-04 15:21:41.930
+2319;Gestisci Direzione sede;1605;2;1608;1;7;544;8;6220;NULL;NULL;codiceUnita=ALL;1;NULL;NULL;NULL;NULL;2019-07-04 15:21:41.993
+2320;Direzione territoriale equipe multidisciplinare;1608;2;1603;1;3;544;4;6220;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2019-07-05 11:35:29.427
+2321;DEC;1284;2;1615;1;7;544;8;6147;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-07-08 16:37:54.360
+2322;RUP;1284;2;1616;1;7;544;8;6147;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-07-08 16:38:53.813
+2323;Utente validatore subappalti;1284;2;1617;1;7;544;8;6147;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-07-08 16:40:25.490
+2324;Verificatore;1284;2;1618;1;7;544;8;6147;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-07-08 16:40:50.110
+2325;Gestisci gli utenti dell'applicativo;1619;2;1620;1;7;544;8;6221;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2019-08-09 11:21:21.560
+2326;Gestisci gli amministratori dell'applicativo;1619;2;1619;1;7;544;8;6221;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2019-08-09 11:21:21.687
+2327;E’ il gruppo degli utenti;1621;2;1622;1;7;544;8;6222;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2019-09-06 13:15:22.563
+2328;E’ il gruppo degli amministratori;1621;2;1621;1;7;544;8;6222;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2019-09-06 13:15:22.720
+2329;Coordinatore generale contarp;1348;2;1623;1;7;544;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;2019-09-11 12:02:10.150
+2330;Visualizzatore Arpa;1348;2;1624;1;7;567;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;2019-09-11 13:12:25.503
+2331;Visualizzatore ASL;1348;2;1625;1;7;567;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;2019-09-11 13:12:39.740
+2332;Visualizzatore Contarp;1348;2;1626;1;7;544;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;2019-09-11 13:12:51.247
+2333;Visualizzatore Università;1348;2;1627;1;7;544;8;6170;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;2019-09-11 13:13:02.987
+2336;Gestisce il gruppo Visualizzatore_INAIL;1629;2;1628;1;7;544;8;6223;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-09-24 13:10:15.453
+2337;Gestisce il gruppo Admin;1629;2;1629;1;7;544;8;6223;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-09-24 13:10:15.703
+2338;Amministratori Profilazione Utente;1630;2;396;1;7;544;8;3;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-09-27 14:15:15.373
+2339;Incaricato allo Stress Lavoro Correlato;1575;2;1324;1;7;567;8;6164;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2019-10-03 16:52:27.277
+2341;Consulenti per le attrezzature e impianti in Conto Stato;921;2;1631;1;3;567;4;6217;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2019-10-07 12:28:19.937
+2342;"Lavoratori Verifiche Sistemi ";1632;2;1633;1;7;544;8;6224;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-10-08 12:12:54.727
+2343;"Visualizzatori Verifiche Sistemi ";1632;2;1634;1;7;544;8;6224;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-10-08 12:13:14.773
+2344;Gestisci il gruppo utenti;1635;2;1636;1;7;544;8;6225;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-10-21 15:09:34.340
+2345;Gestisci il gruppo Amministratore;1635;2;1635;1;7;544;8;6225;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-10-21 15:09:54.203
+2346;Consulenti per le attrezzature e impianti in Conto Stato;920;2;1631;1;3;567;4;6217;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2019-10-30 16:00:43.537
+2348;Amministratori server SSO;1630;2;1639;1;7;544;8;3;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;2019-11-08 16:25:11.817
+2349;Amministratori server Profilazione;1630;2;1640;1;7;544;8;3;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;2019-11-08 16:45:17.433
+2350;Utente Service Now;1485;2;1641;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2019-11-11 16:33:26.080
+2351;Amministratore Fatturazione Elettronica;1018;2;1018;1;7;544;8;6080;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2019-11-13 10:25:24.760
+2352;Configuratore Profilazione CIVA;1557;2;1557;1;7;544;8;6214;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2019-12-05 15:45:05.750
+2353;Gestisci il gruppo Amministratore Portale del Dipendente;591;2;591;1;7;544;8;5966;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-01-02 13:32:45.147
+2354;Consultatore;1643;2;1645;1;7;544;8;6226;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-03-03 08:31:25.277
+2355;Direttore Polo;1643;2;1646;1;7;544;8;6226;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-03-03 08:31:25.480
+2356;Direttore Regione;1643;2;1647;1;7;544;8;6226;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-03-03 08:31:25.557
+2357;Amministratore;1643;2;1644;1;7;544;8;6226;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-03-03 08:31:25.603
+2358;Amministratore di profili SPP;1643;2;1643;1;7;544;8;6226;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-03-03 08:31:25.683
+2359;Utente generico NuvoSIA;1648;2;1649;1;7;544;8;6227;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-03-13 17:23:26.523
+2360;Gestisci il gruppo CAMPIONATORE;1654;2;1655;1;7;544;8;6228;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;2020-03-31 09:42:30.863
+2361;Configuratore Profilazione VDEA;1656;2;1656;1;7;544;8;6228;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-04-08 13:37:38.463
+2362;Amministratore VDEA;1656;2;1654;1;7;544;8;6228;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-04-08 13:37:38.587
+2363;Gestisci il Gruppo Utenti Regione Controllo Qualità;1367;2;1657;1;7;567;8;6174;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-05-04 11:10:29.797
+2364;Gestisci il Gruppo Utenti SubRegionali Controllo Qualità;1367;2;1658;1;7;567;8;6174;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-05-04 11:17:24.077
+2365;LogOnAsResponsabili;1630;2;1117;1;7;544;8;6156;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;2020-05-07 17:48:58.713
+2366;Utente Amministrazione in conto Stato addetto alla verifica dei rimborsi;915;2;1415;1;3;544;4;6183;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-06-05 11:27:47.403
+2367;Dirigente dell’ufficio;1409;2;1411;1;7;NULL;8;6183;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-06-09 12:13:34.377
+2368;Responsabile di processo;1411;2;1407;1;7;544;8;6183;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-06-09 12:33:58.240
+2369;Utente Amministratore Cruscotto Eventi;1660;2;1660;1;7;544;8;6230;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-10 10:38:26.430
+2370;Utente Amministrativo Cruscotto Eventi;1660;2;1661;1;7;544;8;6230;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-10 10:40:40.380
+2371;Utente Contabile Cruscotto Eventi;1660;2;1662;1;7;544;8;6230;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-10 10:41:45.103
+2372;Gruppo di utenti abilitati ad accedere al Cruscotto;1660;2;1663;1;7;544;8;6230;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-10 10:42:26.113
+2373;Amministratore Utenze;1664;2;1664;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-18 17:55:22.567
+2374;Profilo Direzionale;1664;2;1665;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-18 17:55:35.007
+2375;Responsabile Applicazioni;1664;2;1666;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-18 17:55:47.340
+2376;Responsabile Architetture IT;1664;2;1667;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-18 17:57:11.270
+2377;Responsabile Dati;1664;2;1668;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-18 17:57:30.837
+2378;Responsabile Infrastrutture;1664;2;1669;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-18 18:03:12.707
+2379;Responsabile Organizzazione;1664;2;1670;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-18 18:03:54.450
+2380;Responsabile Processi;1664;2;1671;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-19 09:19:52.120
+2381;Responsabile Servizi INAIL;1664;2;1672;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-19 09:20:05.907
+2382;Responsabile Servizi PPAA;1664;2;1673;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-19 09:20:22.423
+2383;Utente Base Territorio;1664;2;1674;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-19 09:20:37.253
+2384;Utente Inail Case Wise;1664;2;1675;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-19 09:20:51.680
+2385;Utente SME;1664;2;1676;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-06-19 09:21:08.090
+2386;Delegato del responsabile ufficio locale;1678;2;1679;1;7;567;8;3;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-07-08 10:10:38.533
+2387;Responsabile ufficio - Servizio di associazioni casalinghe;1677;2;1678;1;3;567;8;6232;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-07-08 10:12:12.503
+2388;Operatore FOIA di Sede;1680;2;1550;1;3;544;4;6213;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-07-15 09:11:38.530
+2389;Responsabile Processo FOIA di Sede;1551;2;1680;1;7;544;8;6213;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-07-15 09:11:39.810
+2390;Responsabile Processo FOIA di Sede;1555;2;1680;1;3;544;4;6213;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-07-15 09:11:39.890
+2391;Operatore Centro Unico;1551;2;1553;1;7;544;8;6213;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-07-15 10:18:03.117
+2392;Operatore FOIA di Sede;1551;2;1550;1;7;544;8;6213;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-07-15 10:18:03.163
+2394;E’ il gruppo degli utenti;1687;2;1686;1;7;544;8;6232;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-10-02 10:16:21.963
+2395;E’ il gruppo degli amministratori;1687;2;1687;1;7;544;8;6232;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-10-02 10:16:22.247
+2396;Gestisci il gruppo Utenti EESSI;1688;2;712;1;7;544;8;6233;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-10-05 12:09:04.630
+2397;Amministratore Insiemi macchine;1689;2;1689;1;7;544;8;6234;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-10-05 14:55:17.230
+2398;Utenti insiemi macchine;1689;2;1690;1;7;544;8;6234;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-10-05 14:58:25.513
+2399;Gestisci Amministratori COR;1691;2;1692;1;3;567;4;6235;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-10-14 12:26:41.383
+2400;Gestisci Utente consultatore;1691;2;1694;1;3;567;4;6235;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-10-14 12:33:59.110
+2401;Gestisci Utente di lavoro;1691;2;1695;1;3;567;4;6235;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-10-14 12:35:35.940
+2402;Gestisci i responsabili COR;1693;2;1691;1;7;567;8;6235;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-10-23 14:58:35.603
+2403;Gruppo che si occupa del monitoraggio dell’EA e dello sviluppo coerente del Modello;1664;2;1696;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-11-06 17:06:47.983
+2404;Responsabile dei Rischi all’interno del Dominio Business;1664;2;1697;1;7;544;8;6231;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-11-06 17:07:09.847
+2405;Delegato del Legale Rappresentante Azienda OCA;1698;2;1699;1;73;567;74;6236;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-11-09 12:42:08.030
+2406;Gestisci gruppo Utente Sovraintendenza Sanitaria Centrale;1193;2;1577;1;7;544;8;6128;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2020-11-26 12:58:03.873
+2407;Gestisci gruppo Utente Regionale PIR;470;2;1579;1;3;544;4;6128;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2020-11-26 13:25:14.523
+2408;Gestisci gruppo Utente Sede PIR;88;2;1580;1;3;544;4;6128;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2020-11-26 13:25:52.377
+2409;Gestisci Capo Progetto Fornitore;1700;2;1701;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-12-03 15:33:53.000
+2410;Gestisci Capo Progetto Inail;1700;2;1702;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-12-03 15:34:41.303
+2411;Gestisci DEC;1700;2;1703;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-12-03 15:35:15.527
+2412;Gestisci DM;1700;2;1704;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-12-03 15:35:46.860
+2413;Gestisci Lettore;1700;2;1705;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-12-03 15:36:29.933
+2414;Gestisci Responsabile Ufficio Sviluppo;1700;2;1706;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-12-03 15:38:00.670
+2415;Gestisci RUF;1700;2;1707;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-12-03 15:38:49.087
+2416;Gestisci RUP;1700;2;1708;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-12-03 15:39:42.083
+2417;Gestisci Validatori;1700;2;1709;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2020-12-03 15:40:38.840
+2418;Operatore per la lavorazione dei verbali;1506;2;1710;1;7;544;8;6204;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2020-12-04 11:12:20.503
+2419;Operatore per la validazione dei verbali;1506;2;1711;1;7;544;8;6204;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2020-12-04 11:13:02.527
+2420;Delegato del Legale Rappresentante Azienda SA;1714;2;1712;1;3;567;4;6204;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2020-12-04 11:21:04.350
+2421;Responsabile ufficio locale CAF imprese;1718;2;198;1;NULL;NULL;NULL;6237;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-12-11 09:03:28.387
+2422;Amministratore utenze digitali;197;2;1718;1;NULL;NULL;NULL;6237;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-12-11 09:03:29.543
+2423;Responsabile ufficio servizi associazione - non società;1719;2;199;1;NULL;NULL;NULL;6237;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-12-11 10:53:09.267
+2424;Amministratore utenze digitali;195;2;1719;1;NULL;NULL;NULL;6237;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-12-11 10:53:10.313
+2425;Responsabile ufficio servizi associazione - società;1720;2;200;1;NULL;NULL;NULL;6237;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-12-11 11:32:37.457
+2426;Amministratore utenze digitali;196;2;1720;1;NULL;NULL;NULL;6238;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-12-11 11:32:38.957
+2427;Admin Progressioni Interne;1723;2;1723;1;7;544;8;6238;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-12-30 16:40:46.677
+2428;utenti abilitati alla richiesta dei concorsi;1723;2;1722;1;7;544;8;6238;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2020-12-30 16:40:46.927
+2429;Gestisci il gruppo Amministratore;1727;2;1727;1;7;544;8;6239;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-01-04 16:32:30.463
+2430;Gestisci il gruppo utenti Operatore Asl;1727;2;1724;1;7;567;8;6239;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-01-04 16:32:30.633
+2431;Gestisci il gruppo utenti Operatore ambulatorio;1727;2;1725;1;7;567;8;6239;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-01-04 16:32:30.713
+2432;Gestisci il gruppo utenti Supervisore;1727;2;1726;1;7;567;8;6239;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-01-04 16:32:30.790
+2433;Gestisci il gruppo DwUtenteAutore;708;2;1728;1;7;544;8;5996;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-01-08 09:47:04.737
+2434;Utente Applicazione;1196;2;1729;1;7;544;8;6129;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-01-27 17:53:07.730
+2435;Gestisci il gruppo Admin;1730;2;1730;1;7;544;8;6240;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-02-04 12:05:20.090
+2436;Gestisci il gruppo VisualizzatoreINAIL;1730;2;1732;1;7;544;8;6240;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-02-04 12:05:20.313
+2437;Gestisci il gruppo ConsultatoreINAIL;1730;2;1731;1;7;544;8;6240;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-02-04 12:05:20.407
+2438;Operatore;1522;2;1523;1;7;567;8;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-02-17 14:30:34.907
+2439;Operatore Sicurezza;1522;2;1637;1;NULL;NULL;NULL;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-02-17 14:30:53.507
+2440;Service Manager;1522;2;1638;1;NULL;NULL;NULL;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-02-17 14:31:12.110
+2441;Gruppo Protocollatore;1416;2;1733;1;7;544;8;6184;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-02-17 17:46:02.547
+2442;Operatore che gestisce la segnalazione;1751;2;1750;1;7;544;8;6241;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-02-26 12:31:51.460
+2443;Operatore che esegue attività inspettive;1751;2;1749;1;7;544;8;6241;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;2021-02-26 12:31:51.740
+2444;Operatore che assegna le segnalazioni;1751;2;1748;1;7;544;8;6241;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-02-26 12:31:51.823
+2445;Gestisci Capo Progetto Fornitore;1706;2;1701;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-02 14:59:28.420
+2446;Gestisci Capo Progetto Inail;1706;2;1702;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-02 14:59:28.650
+2447;Gestisci DEC;1706;2;1703;1;7;544;8;6236;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-03-02 14:59:28.730
+2448;Gestisci DM;1706;2;1704;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-02 14:59:28.807
+2449;Gestisci Lettore;1706;2;1705;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-02 14:59:28.890
+2450;Gestisci RUF;1706;2;1707;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-02 14:59:28.963
+2451;Gestisci RUP;1706;2;1708;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-02 14:59:29.043
+2452;Gestisci Validatori;1706;2;1709;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-02 14:59:29.120
+2453;Delegati;1752;2;36;1;NULL;NULL;NULL;6242;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-03-10 12:08:57.883
+2454;Gestisci il gruppo utenti Supervisore Intranet;1727;2;1753;1;7;544;8;6239;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-03-11 16:35:39.400
+2455;Amministratore utenze digitali;35;2;1752;1;NULL;NULL;NULL;6242;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-03-16 10:12:57.300
+2456;Utente UTP;1759;2;1056;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-29 11:15:34.520
+2457;Responsabile AOO;1759;2;1054;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-29 11:15:34.740
+2458;Responsabile UTP;1759;2;1055;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-29 11:15:34.817
+2459;Vicario AOO;1759;2;1057;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-29 11:15:34.910
+2460;Vicario UTP;1759;2;1058;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-29 11:15:34.990
+2461;Help Desk;1759;2;1053;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-03-29 11:15:35.067
+2462;Collaboratore AOO;1759;2;1187;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-29 11:15:35.160
+2463;Consulente Struttura Interna;1759;2;1186;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-29 11:15:35.240
+2464;Responsabile Struttura Interna;1759;2;1081;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-29 11:15:35.317
+2466;Vicario Struttura Interna;1759;2;1080;1;7;544;8;6244;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-03-29 11:15:35.490
+2467;Integrazione Sistema Gestione Applicazione SGA;1485;2;1760;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-03-29 16:37:29.050
+2468;Gestisci gli utenti del monitoraggio CCI;1762;2;1763;1;7;544;8;6242;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-04-19 11:16:23.553
+2469;Gestisci l’Operatore sede;1769;2;1768;1;7;544;8;6243;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-04-27 15:41:01.370
+2470;Gestisci il Consultatore dr;1769;2;1766;1;7;544;8;6243;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-04-27 15:41:01.633
+2471;Gestisci il Consultatore dc;1769;2;1767;1;7;544;8;6243;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-04-27 15:41:01.713
+2472;Visualizza il Vicario del Dirigente dell’Ufficio;1411;2;1770;1;7;544;8;6183;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-05-05 11:54:46.417
+2474;Gestore del servizio di posta territoriale;671;2;1775;1;7;544;8;6245;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-06-11 14:11:14.790
+2475;Operatore di Postalizzazione Territoriale;671;2;1776;1;7;544;8;6245;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-06-11 14:11:26.860
+2476;Operatore per la stampa territoriale;671;2;1777;1;7;544;8;6245;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-06-11 14:11:39.470
+2477;Incaricato;1778;2;1779;1;NULL;NULL;NULL;6246;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-06-15 18:01:42.480
+2478;Utenti dell’applicazione DS;1334;2;1773;1;7;544;8;6168;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-06-16 15:24:33.967
+2479;Utenti dell’applicazione DC;1334;2;1771;1;7;544;8;6168;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-06-16 15:26:29.367
+2480;Utenti dell’applicazione DR;1334;2;1772;1;7;544;8;6168;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-06-16 15:29:18.620
+2481;Amministratore di backoffice;1759;2;1781;1;7;544;8;6246;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;2021-06-23 16:27:49.580
+2482;Operatore;1783;2;1523;1;7;567;8;6247;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-06-30 09:33:59.793
+2483;Operatore Sicurezza;1783;2;1637;1;NULL;NULL;NULL;6248;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-06-30 09:34:17.487
+2484;Responsabile;1783;2;1522;1;NULL;NULL;NULL;6249;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-06-30 09:34:26.987
+2485;Service Manager;1783;2;1638;1;NULL;NULL;NULL;6250;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-06-30 09:34:47.400
+2486;Utente utp di sede che lavora pratiche di direzioni chiuse;1057;2;1784;1;7;544;8;6246;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-07-02 10:02:55.050
+2487;Utente utp di sede che lavora pratiche di direzioni chiuse;1759;2;1784;1;7;544;8;6246;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-07-02 10:02:55.253
+2488;Utente utp di sede che lavora pratiche di direzioni chiuse;1054;2;1784;1;7;544;8;6246;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-07-02 10:02:55.333
+2489;ADMI;1785;2;1786;1;7;544;8;6251;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-07-20 14:14:13.440
+2490;Utenti OAS;1787;2;1788;1;7;544;8;6252;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-08-09 12:32:27.833
+2491;Gestisci Amministratori di tabelle servizio;88;2;1793;1;543;544;536;-1;NULL;NULL;NULL;1;0;NULL;NULL;NULL;2021-09-02 14:22:33.410
+2492;Help Desk per le sedi territoriali;1759;2;1799;1;7;544;8;6246;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-09-06 15:41:18.457
+2493;Subdelegato Società Organismo Attestazioni;244;2;1801;1;3;NULL;4;-1;NULL;NULL;NULL;0;0;NULL;NULL;NULL;2021-09-13 14:25:16.480
+2494;Referente territoriale;1782;2;42;1;NULL;NULL;NULL;6237;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-09-13 14:49:07.920
+2495;Amministratori utenze digitali;1782;2;1802;1;NULL;NULL;NULL;6253;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-09-13 15:05:13.190
+2496;Medici ospedalieri;1782;2;40;1;NULL;NULL;NULL;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-09-20 10:51:52.657
+2497;Referente territoriale;1802;2;42;1;NULL;NULL;NULL;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-09-20 11:01:40.697
+2498;Medico ospedaliero;1802;2;40;1;NULL;NULL;NULL;-1;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-09-20 11:02:01.273
+2499;Gestisci Resp BRM;1700;2;1803;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-09-28 11:37:22.307
+2500;Gestisci Resp X;1700;2;1804;1;7;544;8;6236;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-09-28 11:38:30.110
+2501;Operatore di postalizzazione territoriale;385;2;1776;1;7;544;8;6245;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-10-05 16:06:02.880
+2502;Operatore di stampa territoriale;385;2;1777;1;7;544;8;6245;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-10-05 16:06:57.510
+2503;Gestore del servizio di postalizzazione territoriale;385;2;1775;1;7;544;8;6245;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-10-05 16:07:14.030
+2504;Operatore di postalizzazione territoriale;1125;2;1776;1;7;544;8;6245;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-10-05 16:07:33.083
+2505;Operatore di stampa territoriale;1125;2;1777;1;7;544;8;6245;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-10-05 16:07:47.193
+2506;Gestore del servizio di postalizzazione territoriale;1125;2;1775;1;7;544;8;6245;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-10-05 16:07:56.400
+2507;Amministratore CE limitato;74;2;1812;1;7;576;8;4;NULL;NULL;NULL;0;0;NULL;NULL;NULL;2021-10-07 17:07:50.467
+2508;Delegati C19;1813;2;1814;1;7;544;8;6254;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-10-27 08:18:25.203
+2509;Responsabili C19;1813;2;1815;1;7;544;8;6254;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-10-27 08:19:00.987
+2510;Stazione Appaltante;242;2;243;1;7;544;8;4;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-11-09 11:49:24.273
+2511;Operatore con utenza interna INAIL;1452;2;1437;1;7;544;8;6169;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-11-15 09:55:17.573
+2512;Vicario Dirigente;526;2;758;1;7;544;8;5963;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-11-15 12:34:53.447
+2513;Amministrativi banca dati lavoro;385;2;1818;1;543;546;536;6255;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-11-15 14:56:44.357
+2514;Amministrativi banca dati lavoro;1817;2;1818;1;7;544;8;6255;NULL;NULL;NULL;0;NULL;NULL;ConsoleIntranet;NULL;2021-11-17 09:09:26.420
+2515;Amministrativi banca dati lavoro;413;2;1818;1;525;515;8;6255;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;2021-11-17 09:09:55.230
+2516;Amministrativi banca dati lavoro;88;2;1818;1;543;546;536;6255;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2021-11-17 09:09:55.420
+2520;Amministrativi banca dati lavoro;470;2;1818;1;525;544;8;6255;NULL;NULL;codiceUnita=gestioneRegionale;1;NULL;NULL;ConsoleIntranet;NULL;2021-11-17 11:41:23.820
+2521;Utenti PowerUser KPI;1821;2;1819;1;7;544;8;6256;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2021-11-25 15:49:02.817
+2522;Utenti Process Manager KPI;1821;2;1820;1;7;544;8;6256;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-11-25 15:49:03.080
+2523;DelegatoPAYGATE;1824;2;1823;1;7;544;8;6257;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-12-02 09:27:18.597
+2524;Configuratore Profilazione PAYGATE;1825;2;1825;1;7;544;8;6257;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-12-02 09:27:53.880
+2525;AmministratorePAYGATE;1825;2;1824;1;7;544;8;6257;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-12-02 09:27:53.960
+2526;DelegatoPAYGATE;1825;2;1823;1;7;544;8;6257;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2021-12-02 09:27:54.053
+2527;Help Desk per le sedi territoriali;1054;2;1799;1;7;544;8;6246;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2022-01-10 14:15:04.017
+2528;Help Desk per le sedi territoriali;1057;2;1799;1;7;544;8;6246;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2022-01-10 14:15:55.557
+2529;Utente dichiarazione reddituale;1827;2;1826;1;7;544;8;6258;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2022-01-18 15:26:21.213
+2530;Amministratore dichiarazione reddituale;1827;2;1827;1;7;544;8;6258;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2022-01-18 15:26:21.463
+2531;Gestisci gli Ispettori;385;2;375;1;543;544;536;6264;NULL;NULL;NULL;1;0;NULL;NULL;NULL;2022-01-20 11:19:23.660
+2532;Gestisci gli Ispettori;413;2;375;1;538;544;8;6264;NULL;NULL;NULL;1;0;NULL;ConsoleIntranet;NULL;2022-01-20 11:19:23.660
+2533;Gestisci gli Ispettori;470;2;375;1;538;544;8;6264;NULL;NULL;NULL;1;0;NULL;ConsoleIntranet;NULL;2022-01-20 11:19:23.660
+2534;Gestisci gli Ispettori;88;2;375;1;543;544;536;6264;NULL;NULL;NULL;1;0;NULL;ConsoleIntranet;NULL;2022-01-20 11:19:23.660
+2535;Integrazione Enterprise Architecture;1485;2;1828;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2022-01-20 15:46:05.283
+2536;TNFSeguro;1485;2;1829;1;7;544;8;6202;NULL;NULL;NULL;1;NULL;NULL;ConsoleIntranet;NULL;2022-01-20 15:47:04.430
+2537;AUTORIZZATORE VDEA;1654;2;1830;1;7;544;8;6228;NULL;NULL;NULL;0;NULL;NULL;NULL;NULL;2022-01-25 09:06:13.947
+2538;Amministratore NGW;1831;2;1831;1;7;544;8;6265;NULL;NULL;NULL;1;NULL;NULL;NULL;NULL;2022-01-27 16:55:53.807
